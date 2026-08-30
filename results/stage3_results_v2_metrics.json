@@ -1,0 +1,16 @@
+{
+  "name": "Previous NLI v2",
+  "total_claims": 600,
+  "precision": 0.037,
+  "recall": 0.033,
+  "f1": 0.035,
+  "abstention_rate": 6.3,
+  "supported_on_right": 10,
+  "caught_hallucinated": 262,
+  "verdict_distribution": {
+    "Partially Supported": 359,
+    "Contradicted": 187,
+    "Unverifiable": 38,
+    "Supported": 16
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "total_tested": 100,
+  "explanations_changed": 78,
+  "faithfulness_score": 78.0,
+  "details": [
+    {
+      "claim": "743",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim '743' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim '743'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Chelone has more than one species.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Chelone has more than one species.' is contradicted by the evidence.",
+      "new_explanation": "The claim 'Chelone has more than one species.' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Colonel Skinner developed a stove.",
+      "original_verdict": "Unverifiable",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "No sufficient evidence was found to verify the claim 'Colonel Skinner developed a stove.'.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Colonel Skinner developed a stove.'.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "I Am Legend",
+      "original_verdict": "Unverifiable",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "No sufficient evidence was found to verify the claim 'I Am Legend'.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'I Am Legend'.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "2014",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim '2014' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim '2014'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Chrisann Brennan",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Chrisann Brennan' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Chrisann Brennan'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Queen Margrethe II",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Queen Margrethe II' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Queen Margrethe II'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Michelle Pfeiffer",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Michelle Pfeiffer' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'Michelle Pfeiffer' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "George Melford was an American actor, while Giuseppe Tornatore has acted in several Italian films.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'George Melford was an American actor, while Giuseppe Tornatore has acted in several Italian films.' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'George Melford was an American actor, while Giuseppe Tornatore has acted in several Italian films.' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Broad Foundation",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Supported",
+      "original_explanation": "The claim 'Broad Foundation' is contradicted by the evidence.",
+      "new_explanation": "The claim 'Broad Foundation' is supported by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Colonie, New York",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Colonie, New York' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Colonie, New York'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Macalester College",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Macalester College' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Macalester College'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "David Vincent is younger than Tom Verlaine.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'David Vincent is younger than Tom Verlaine.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'David Vincent is younger than Tom Verlaine.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The Trenton Prong is a section of the Piedmont province of Antarctica that was formed roughly 480 million years ago.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'The Trenton Prong is a section of the Piedmont province of Antarctica that was formed roughly 480 million years ago.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'The Trenton Prong is a section of the Piedmont province of Antarctica that was formed roughly 480 million years ago.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Hillary Rodham Clinton",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Hillary Rodham Clinton' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'Hillary Rodham Clinton' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The nationality of actors in that movie is from various countries.",
+      "original_verdict": "Unverifiable",
+      "new_verdict": "Contradicted",
+      "original_explanation": "No sufficient evidence was found to verify the claim 'The nationality of actors in that movie is from various countries.'.",
+      "new_explanation": "The claim 'The nationality of actors in that movie is from various countries.' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Eucommia has a more widespread distribution.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Eucommia has a more widespread distribution.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Eucommia has a more widespread distribution.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "William \"Bill\" Murray",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'William \"Bill\" Murray' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'William \"Bill\" Murray'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The author's non-fiction books are about terrorism.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'The author's non-fiction books are about terrorism.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'The author's non-fiction books are about terrorism.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Don Black",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Don Black' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Don Black'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Howl-O-Scream is an annual event at SeaWorld San Antonio, which is located in the Texas district.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Howl-O-Scream is an annual event at SeaWorld San Antonio, which is located in the Texas district.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Howl-O-Scream is an annual event at SeaWorld San Antonio, which is located in the Texas district.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Megan Fox's debut was in the 2007 American teen musical comedy film Confessions of a Teenage Drama Queen and she later went on to co-star in Transformers.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Megan Fox's debut was in the 2007 American teen musical comedy film Confessions of a Teenage Drama Queen and she later went on to co-star in Transformers.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Megan Fox's debut was in the 2007 American teen musical comedy film Confessions of a Teenage Drama Queen and she later went on to co-star in Transformers.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Purshia has more species.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Purshia has more species.' is contradicted by the evidence.",
+      "new_explanation": "The claim 'Purshia has more species.' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "London, England",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'London, England' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'London, England'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "1882",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim '1882' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim '1882'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The political ideology of The National Action Party was neocolonialism.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'The political ideology of The National Action Party was neocolonialism.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'The political ideology of The National Action Party was neocolonialism.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Jardine Matheson Holdings",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Jardine Matheson Holdings' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'Jardine Matheson Holdings' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Wayne Kramer",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Wayne Kramer' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Wayne Kramer'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Air Force, Incorporated",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Air Force, Incorporated' is contradicted by the evidence.",
+      "new_explanation": "The claim 'Air Force, Incorporated' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "As per my knowledge, the 2003 FIBA Under-19 World Championship MVP is a citizen of New Zealand.",
+      "original_verdict": "Unverifiable",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "No sufficient evidence was found to verify the claim 'As per my knowledge, the 2003 FIBA Under-19 World Championship MVP is a citizen of New Zealand.'.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'As per my knowledge, the 2003 FIBA Under-19 World Championship MVP is a citizen of New Zealand.'.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Help!",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Help!' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Help!'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Jessica Biel",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Jessica Biel' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Jessica Biel'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Don Black is a lyrist.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Don Black is a lyrist.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Don Black is a lyrist.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Tom Verlaine",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Tom Verlaine' is contradicted by the evidence.",
+      "new_explanation": "The claim 'Tom Verlaine' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Human Rights Quarterly came out first.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Human Rights Quarterly came out first.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Human Rights Quarterly came out first.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The rapper on Lil B.I.G. Pac was born in the late 1990s.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'The rapper on Lil B.I.G. Pac was born in the late 1990s.' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'The rapper on Lil B.I.G. Pac was born in the late 1990s.' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The creator of the series was born on an unknown day in October, 1972.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'The creator of the series was born on an unknown day in October, 1972.' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'The creator of the series was born on an unknown day in October, 1972.' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "human sacrifice",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'human sacrifice' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'human sacrifice' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "24 January 1953",
+      "original_verdict": "Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim '24 January 1953' is supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim '24 January 1953'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Sickle-cell disease",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Sickle-cell disease' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Sickle-cell disease'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "\"American Pie\"",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim '\"American Pie\"' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim '\"American Pie\"'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Inna studied at Mangalia University.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Inna studied at Mangalia University.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Inna studied at Mangalia University.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The water park Surfrider is in ranked first sometime in the early 2010s.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'The water park Surfrider is in ranked first sometime in the early 2010s.' is contradicted by the evidence.",
+      "new_explanation": "The claim 'The water park Surfrider is in ranked first sometime in the early 2010s.' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Mark Rankin recorded more tracks.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Mark Rankin recorded more tracks.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Mark Rankin recorded more tracks.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Jumong",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Jumong' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Jumong'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "6.213 km long",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim '6.213 km long' is contradicted by the evidence.",
+      "new_explanation": "The claim '6.213 km long' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Cupertino, California",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Cupertino, California' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Cupertino, California'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "three",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'three' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'three'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Decommissioning in Northern Ireland was a process included in the Belfast Agreement as part of the Northern Ireland peace process, which began after 1997.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Decommissioning in Northern Ireland was a process included in the Belfast Agreement as part of the Northern Ireland peace process, which began after 1997.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Decommissioning in Northern Ireland was a process included in the Belfast Agreement as part of the Northern Ireland peace process, which began after 1997.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "a wide variety of specialist weapons",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'a wide variety of specialist weapons' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'a wide variety of specialist weapons'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "James Buchanan was passed over for Franklin Pierce.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'James Buchanan was passed over for Franklin Pierce.' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'James Buchanan was passed over for Franklin Pierce.' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Real Madrid and FC Barcelona",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Real Madrid and FC Barcelona' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Real Madrid and FC Barcelona'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Winter Sonata",
+      "original_verdict": "Unverifiable",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "No sufficient evidence was found to verify the claim 'Winter Sonata'.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Winter Sonata'.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Aealo and Rotting Christ both use traditional Greek musical instruments.",
+      "original_verdict": "Unverifiable",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "No sufficient evidence was found to verify the claim 'Aealo and Rotting Christ both use traditional Greek musical instruments.'.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Aealo and Rotting Christ both use traditional Greek musical instruments.'.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "There is no railroad to the north of Bates Pond.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'There is no railroad to the north of Bates Pond.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'There is no railroad to the north of Bates Pond.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Tobias Schweinsteiger's brother is part of the Chicago Fire, but not as a midfielder.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Tobias Schweinsteiger's brother is part of the Chicago Fire, but not as a midfielder.' is contradicted by the evidence.",
+      "new_explanation": "The claim 'Tobias Schweinsteiger's brother is part of the Chicago Fire, but not as a midfielder.' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Whitey Hilcher played for the Cincinnati Reds in the 1920s.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Whitey Hilcher played for the Cincinnati Reds in the 1920s.' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'Whitey Hilcher played for the Cincinnati Reds in the 1920s.' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Tangier",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Tangier' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Tangier'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Rue McClanahan had the opportunity to reunite with Estelle Getty in Ladies Man.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Rue McClanahan had the opportunity to reunite with Estelle Getty in Ladies Man.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Rue McClanahan had the opportunity to reunite with Estelle Getty in Ladies Man.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Winn Mountain",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Winn Mountain' is contradicted by the evidence.",
+      "new_explanation": "The claim 'Winn Mountain' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Boston Broadcasting Corporation.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Boston Broadcasting Corporation.' is contradicted by the evidence.",
+      "new_explanation": "The claim 'Boston Broadcasting Corporation.' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Yes, both were written by French composers.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Yes, both were written by French composers.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Yes, both were written by French composers.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Deutsche Post DHL",
+      "original_verdict": "Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Deutsche Post DHL' is supported by the evidence.",
+      "new_explanation": "The claim 'Deutsche Post DHL' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Lars Eller was actually drafted by the Toronto Maple Leafs.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Lars Eller was actually drafted by the Toronto Maple Leafs.' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'Lars Eller was actually drafted by the Toronto Maple Leafs.' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Monoral is an alternative band.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Monoral is an alternative band.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Monoral is an alternative band.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Neetho starred a Norwegian actress.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Neetho starred a Norwegian actress.' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'Neetho starred a Norwegian actress.' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Garry Marshall",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Garry Marshall' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Garry Marshall'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Cindy Williams is an award-winning news anchor for a tv station whose transmitter is located on Sebago Mountain.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Cindy Williams is an award-winning news anchor for a tv station whose transmitter is located on Sebago Mountain.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Cindy Williams is an award-winning news anchor for a tv station whose transmitter is located on Sebago Mountain.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The section around the crossing of the River Dee.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'The section around the crossing of the River Dee.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'The section around the crossing of the River Dee.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Architectural Digest",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Architectural Digest' is contradicted by the evidence.",
+      "new_explanation": "The claim 'Architectural Digest' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Gong Yoo",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Gong Yoo' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Gong Yoo'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Transformers",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Transformers' is contradicted by the evidence.",
+      "new_explanation": "The claim 'Transformers' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "racing",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'racing' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'racing'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The fairy queen Queen Mab originated from the mythological tales of ancient Ireland and England.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'The fairy queen Queen Mab originated from the mythological tales of ancient Ireland and England.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'The fairy queen Queen Mab originated from the mythological tales of ancient Ireland and England.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "American black bear",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'American black bear' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'American black bear'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Ivor Gurney and Robert Walser shared a passion for creating beautiful and inspiring works of art.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Supported",
+      "original_explanation": "The claim 'Ivor Gurney and Robert Walser shared a passion for creating beautiful and inspiring works of art.' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'Ivor Gurney and Robert Walser shared a passion for creating beautiful and inspiring works of art.' is supported by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The Rockets acquired Hayes from Washington.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'The Rockets acquired Hayes from Washington.' is contradicted by the evidence.",
+      "new_explanation": "The claim 'The Rockets acquired Hayes from Washington.' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Robert Erskine Childers",
+      "original_verdict": "Unverifiable",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "No sufficient evidence was found to verify the claim 'Robert Erskine Childers'.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Robert Erskine Childers'.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Sex and the City",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Sex and the City' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'Sex and the City' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Proud To Commit Commercial Suicide is a live album by industrial metal band Nailbomb and captures the band's only live appearance at the 1995 Dynamo Open Air Festival. This festival had no such infamous remote settlement.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'Proud To Commit Commercial Suicide is a live album by industrial metal band Nailbomb and captures the band's only live appearance at the 1995 Dynamo Open Air Festival. This festival had no such infamous remote settlement.' is contradicted by the evidence.",
+      "new_explanation": "The claim 'Proud To Commit Commercial Suicide is a live album by industrial metal band Nailbomb and captures the band's only live appearance at the 1995 Dynamo Open Air Festival. This festival had no such infamous remote settlement.' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Pierre Gasly",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Pierre Gasly' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Pierre Gasly'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "1972–73 NBA season",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim '1972–73 NBA season' is only partially supported by the evidence.",
+      "new_explanation": "The claim '1972–73 NBA season' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The 2017 Toro Rosso STR12 was driven by a Japanese racing driver named Yuki Tsunoda.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'The 2017 Toro Rosso STR12 was driven by a Japanese racing driver named Yuki Tsunoda.' is contradicted by the evidence.",
+      "new_explanation": "The claim 'The 2017 Toro Rosso STR12 was driven by a Japanese racing driver named Yuki Tsunoda.' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "The song \"Partyman\" was written by Michael Jackson.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'The song \"Partyman\" was written by Michael Jackson.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'The song \"Partyman\" was written by Michael Jackson.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Dana Robert graduated from the University of Florida.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Dana Robert graduated from the University of Florida.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Dana Robert graduated from the University of Florida.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Mate Pavić started playing tennis first.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Mate Pavić started playing tennis first.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Mate Pavić started playing tennis first.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "John \"Jack\" Roland Redman",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'John \"Jack\" Roland Redman' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'John \"Jack\" Roland Redman'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "The president of South Korea was born on January 24th.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'The president of South Korea was born on January 24th.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'The president of South Korea was born on January 24th.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "England",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'England' is only partially supported by the evidence.",
+      "new_explanation": "The claim 'England' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "2009",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim '2009' is only partially supported by the evidence.",
+      "new_explanation": "The claim '2009' is contradicted by the evidence.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "\"Puss in Boots: The Three Diablos\" sequel producer: Pixar.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim '\"Puss in Boots: The Three Diablos\" sequel producer: Pixar.' is contradicted by the evidence.",
+      "new_explanation": "The claim '\"Puss in Boots: The Three Diablos\" sequel producer: Pixar.' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "Marie Antoinette was born in 1755.",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Marie Antoinette was born in 1755.' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Marie Antoinette was born in 1755.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Cynthia Nixon received her awards for her performance in \"Modern Family.\"",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Cynthia Nixon received her awards for her performance in \"Modern Family.\"' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Cynthia Nixon received her awards for her performance in \"Modern Family.\"'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "no",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Contradicted",
+      "original_explanation": "The claim 'no' is contradicted by the evidence.",
+      "new_explanation": "The claim 'no' is contradicted by the evidence.",
+      "explanation_changed": false
+    },
+    {
+      "claim": "25 May",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim '25 May' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim '25 May'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "\"You Spin Me Round (Like a Record)\" was actually not the first UK number-one hit by the Stock Aitken Waterman production trio. Their first UK number-one hit was \"Respectable\" by Mel and Kim.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim '\"You Spin Me Round (Like a Record)\" was actually not the first UK number-one hit by the Stock Aitken Waterman production trio. Their first UK number-one hit was \"Respectable\" by Mel and Kim.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim '\"You Spin Me Round (Like a Record)\" was actually not the first UK number-one hit by the Stock Aitken Waterman production trio. Their first UK number-one hit was \"Respectable\" by Mel and Kim.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Panic! at the Disco was formed in 2005.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Panic! at the Disco was formed in 2005.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Panic! at the Disco was formed in 2005.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "Body of War came out first.",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'Body of War came out first.' is contradicted by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'Body of War came out first.'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "You Spin Me Round (Like a Record)",
+      "original_verdict": "Partially Supported",
+      "new_verdict": "Unverifiable",
+      "original_explanation": "The claim 'You Spin Me Round (Like a Record)' is only partially supported by the evidence.",
+      "new_explanation": "No sufficient evidence was found to verify the claim 'You Spin Me Round (Like a Record)'.",
+      "explanation_changed": true
+    },
+    {
+      "claim": "American",
+      "original_verdict": "Contradicted",
+      "new_verdict": "Supported",
+      "original_explanation": "The claim 'American' is contradicted by the evidence.",
+      "new_explanation": "The claim 'American' is supported by the evidence.",
+      "explanation_changed": true
+    }
+  ]
+}

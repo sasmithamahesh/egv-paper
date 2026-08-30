@@ -1,0 +1,16 @@
+{
+  "name": "Lexical Baseline",
+  "total_claims": 600,
+  "precision": 0.652,
+  "recall": 0.937,
+  "f1": 0.769,
+  "abstention_rate": 2.7,
+  "supported_on_right": 281,
+  "caught_hallucinated": 150,
+  "verdict_distribution": {
+    "Supported": 415,
+    "Partially Supported": 143,
+    "Contradicted": 26,
+    "Unverifiable": 16
+  }
+}

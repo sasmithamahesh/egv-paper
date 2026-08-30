@@ -1,0 +1,4202 @@
+[
+  {
+    "id": 0,
+    "answer_type": "right_answer",
+    "claim": "Afrojack",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 0,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Take Me Home\" is a song by Bebe Rexha, produced by a Dutch DJ.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 1,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 1,
+    "answer_type": "hallucinated_answer",
+    "claim": "Roberto Bolaño was born in Japan.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 2,
+    "answer_type": "right_answer",
+    "claim": "Shatter Me",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 2,
+    "answer_type": "hallucinated_answer",
+    "claim": "The music video for the song \"Sun Skip\" by Lindsey Stirling received 1.3 million views on YouTube after one day.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 3,
+    "answer_type": "right_answer",
+    "claim": "1882",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 3,
+    "answer_type": "hallucinated_answer",
+    "claim": "The German field army who named the 1st Battle of Kharkov was born in 1885.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 4,
+    "answer_type": "right_answer",
+    "claim": "American",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 4,
+    "answer_type": "hallucinated_answer",
+    "claim": "Heart, the famous rock band, is American.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 5,
+    "answer_type": "right_answer",
+    "claim": "Pikotaro",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 5,
+    "answer_type": "hallucinated_answer",
+    "claim": "Kosaka promotes himself as Pikotaro.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 6,
+    "answer_type": "right_answer",
+    "claim": "2,416",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 6,
+    "answer_type": "hallucinated_answer",
+    "claim": "The population of the terminus of the Willunga railway line in 2011 was 2,415.",
+    "verdict": "Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 7,
+    "answer_type": "right_answer",
+    "claim": "Benjamin",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 7,
+    "answer_type": "hallucinated_answer",
+    "claim": "Gaten Matarazzo began his career on Broadway as Gavroche.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 8,
+    "answer_type": "right_answer",
+    "claim": "Richard Ney",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 8,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sheldon Harnick wrote the lyrics.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 9,
+    "answer_type": "right_answer",
+    "claim": "Buffalo Sabres",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 9,
+    "answer_type": "hallucinated_answer",
+    "claim": "Evander Kane plays for Sabres.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 10,
+    "answer_type": "right_answer",
+    "claim": "Hermitage Castle",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 10,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Water passes through several castles in the border region of Scotland, including Hermitage Castle.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 11,
+    "answer_type": "right_answer",
+    "claim": "The Awakening",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 11,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Blood\" was actually co-written with James Cameron.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 12,
+    "answer_type": "right_answer",
+    "claim": "Firs",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 12,
+    "answer_type": "hallucinated_answer",
+    "claim": "Chelone has more than one species.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 13,
+    "answer_type": "right_answer",
+    "claim": "Maytenus",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 13,
+    "answer_type": "hallucinated_answer",
+    "claim": "Eucommia has a more widespread distribution.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 14,
+    "answer_type": "right_answer",
+    "claim": "March 16, 1981",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 14,
+    "answer_type": "hallucinated_answer",
+    "claim": "House Shoes produced music for Danny Brown, who was born before 2000.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 15,
+    "answer_type": "right_answer",
+    "claim": "Macalester College",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 15,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mel Duncan holds an undergraduate degree from Macalester College in Saint Paul, Minnesota.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 16,
+    "answer_type": "right_answer",
+    "claim": "Colonie, New York",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 16,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 1987 American drama film Ironweed was shot in downtown Albany, New York, featuring a large pastoral cemetery.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 17,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 17,
+    "answer_type": "hallucinated_answer",
+    "claim": "Phil Mogg and Dave Peters are both musical artists.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 18,
+    "answer_type": "right_answer",
+    "claim": "\"A Long Way Home\"",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 18,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Sia song \"Never Give Up\" is from the soundtrack of a film that is based on a true story.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 19,
+    "answer_type": "right_answer",
+    "claim": "Tasawwuf",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 19,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sayyid Hasan Husameddin founded the Ush-shaki tradition, and was also related to the Prophet Muhammad.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 20,
+    "answer_type": "right_answer",
+    "claim": "Trying Again",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 20,
+    "answer_type": "hallucinated_answer",
+    "claim": "Toby Williams appeared in the British comedy series, Not Trying At All.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 21,
+    "answer_type": "right_answer",
+    "claim": "John Charles Waite",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 21,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jacoby Shaddix is more famous.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 22,
+    "answer_type": "right_answer",
+    "claim": "Sickle-cell disease",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 22,
+    "answer_type": "hallucinated_answer",
+    "claim": "Hemolytic anemia with sickling disorders.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 23,
+    "answer_type": "right_answer",
+    "claim": "a wide variety of specialist weapons",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 23,
+    "answer_type": "hallucinated_answer",
+    "claim": "The special operations force of the Irish Defence Forces had access to the most modern weapons in the world.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 24,
+    "answer_type": "right_answer",
+    "claim": "Australia",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 24,
+    "answer_type": "hallucinated_answer",
+    "claim": "Peppers Manor House is located in Sutton Forest, but the New South Wales State Heritage Register is located in Sydney.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 25,
+    "answer_type": "right_answer",
+    "claim": "Atlanta Falcons",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 25,
+    "answer_type": "hallucinated_answer",
+    "claim": "Stephen Ambrose Sarkisian is with Atlanta.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 26,
+    "answer_type": "right_answer",
+    "claim": "American",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 26,
+    "answer_type": "hallucinated_answer",
+    "claim": "Patrick Brice and Creep both come from the United States.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 27,
+    "answer_type": "right_answer",
+    "claim": "Cheltenham",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 27,
+    "answer_type": "hallucinated_answer",
+    "claim": "One of the main British intelligence agencies is located in Cheltenham suburbs.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 28,
+    "answer_type": "right_answer",
+    "claim": "William Shakespeare",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 28,
+    "answer_type": "hallucinated_answer",
+    "claim": "The fairy queen Queen Mab originated from the mythological tales of ancient Ireland and England.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 29,
+    "answer_type": "right_answer",
+    "claim": "lyric soprano is a type of operatic soprano voice",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 29,
+    "answer_type": "hallucinated_answer",
+    "claim": "Emma Matthews was a coloratura soprano.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 30,
+    "answer_type": "right_answer",
+    "claim": "Premier League",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 30,
+    "answer_type": "hallucinated_answer",
+    "claim": "Daniel Nii Tackie Mensah Welbeck plays for Arsenal.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 31,
+    "answer_type": "right_answer",
+    "claim": "the River Thames",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 31,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Aberdeen Bestiary is located near the River Avon.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 32,
+    "answer_type": "right_answer",
+    "claim": "Robert F. Simon",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 32,
+    "answer_type": "hallucinated_answer",
+    "claim": "The director Richard Wilson also appeared in the film as an authority figure.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 33,
+    "answer_type": "right_answer",
+    "claim": "Jonestown",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 33,
+    "answer_type": "hallucinated_answer",
+    "claim": "Proud To Commit Commercial Suicide is a live album by industrial metal band Nailbomb and captures the band's only live appearance at the 1995 Dynamo Open Air Festival. This festival had no such infamous remote settlement.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 34,
+    "answer_type": "right_answer",
+    "claim": "François Girard",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 34,
+    "answer_type": "hallucinated_answer",
+    "claim": "The director of the film that Christoph Koncz starred in was not François Girard.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 35,
+    "answer_type": "right_answer",
+    "claim": "1994",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 35,
+    "answer_type": "hallucinated_answer",
+    "claim": "Decommissioning in Northern Ireland was a process included in the Belfast Agreement as part of the Northern Ireland peace process, which began after 1997.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 36,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 36,
+    "answer_type": "hallucinated_answer",
+    "claim": "Monoral is an alternative band.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 37,
+    "answer_type": "right_answer",
+    "claim": "Kanagawa Prefecture",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 37,
+    "answer_type": "hallucinated_answer",
+    "claim": "Shizuoka Prefecture",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 38,
+    "answer_type": "right_answer",
+    "claim": "2002",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 38,
+    "answer_type": "hallucinated_answer",
+    "claim": "Samsung Scholarship was established in 2003.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 39,
+    "answer_type": "right_answer",
+    "claim": "1930",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 39,
+    "answer_type": "hallucinated_answer",
+    "claim": "Cooper pairs were first described by a Nobel Prize laureate American physicist, without mentioning his birth year.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 40,
+    "answer_type": "right_answer",
+    "claim": "Jumong",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 40,
+    "answer_type": "hallucinated_answer",
+    "claim": "Winter Sonata",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 41,
+    "answer_type": "right_answer",
+    "claim": "Rupert Penry-Jones",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 41,
+    "answer_type": "hallucinated_answer",
+    "claim": "Lydia Leonard also starred in The Strain.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 42,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 42,
+    "answer_type": "hallucinated_answer",
+    "claim": "Hanover Hound is from Germany.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 43,
+    "answer_type": "right_answer",
+    "claim": "Medici",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 43,
+    "answer_type": "hallucinated_answer",
+    "claim": "Junta is designed by Reiner Knizia.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 44,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 44,
+    "answer_type": "hallucinated_answer",
+    "claim": "George Melford was an American actor, while Giuseppe Tornatore has acted in several Italian films.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 45,
+    "answer_type": "right_answer",
+    "claim": "Kazushi Sakuraba",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 45,
+    "answer_type": "hallucinated_answer",
+    "claim": "Shinya Aoki was the mainstay of Dream, being part of over 15 shows.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 46,
+    "answer_type": "right_answer",
+    "claim": "St Paul's Cathedral",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 46,
+    "answer_type": "hallucinated_answer",
+    "claim": "Norwich Cathedral is dedicated to Holy Trinity.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 47,
+    "answer_type": "right_answer",
+    "claim": "Tom Verlaine",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 47,
+    "answer_type": "hallucinated_answer",
+    "claim": "David Vincent is younger than Tom Verlaine.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 48,
+    "answer_type": "right_answer",
+    "claim": "Cafaro Company",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 48,
+    "answer_type": "hallucinated_answer",
+    "claim": "The BAM! store in Huntington Mall is owned by Old Navy.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 49,
+    "answer_type": "right_answer",
+    "claim": "June 11, 1997",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 49,
+    "answer_type": "hallucinated_answer",
+    "claim": "The rapper on Lil B.I.G. Pac was born in the late 1990s.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 50,
+    "answer_type": "right_answer",
+    "claim": "Valentine's Day",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 50,
+    "answer_type": "hallucinated_answer",
+    "claim": "The romantic film soundtrack's name is Valentine's Day.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 51,
+    "answer_type": "right_answer",
+    "claim": "1947",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 51,
+    "answer_type": "hallucinated_answer",
+    "claim": "There is no railroad to the north of Bates Pond.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 52,
+    "answer_type": "right_answer",
+    "claim": "Queen Margrethe II",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 52,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mary, Crown Princess of Denmark's mother-in-law is the Queen.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 53,
+    "answer_type": "right_answer",
+    "claim": "National Action Party",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 53,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mayorga Castañeda serves in a major Mexican political party.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 54,
+    "answer_type": "right_answer",
+    "claim": "rock",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 54,
+    "answer_type": "hallucinated_answer",
+    "claim": "Giant Drag and Chagall Guevara belong to different genres.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 55,
+    "answer_type": "right_answer",
+    "claim": "Between Shades of Gray",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 55,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ruta Sepetys' best-seller is \"The Gray Shade\".",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 56,
+    "answer_type": "right_answer",
+    "claim": "Dimension Films",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 56,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Weinstein Company distributed Scary Movie 5.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 57,
+    "answer_type": "right_answer",
+    "claim": "743",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 57,
+    "answer_type": "hallucinated_answer",
+    "claim": "The small town near Sacramento has less population than 744.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 58,
+    "answer_type": "right_answer",
+    "claim": "23 June 2013.",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 58,
+    "answer_type": "hallucinated_answer",
+    "claim": "The coach of Karachi Kings was removed as coach of the Australia national cricket team in mid-2013.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 59,
+    "answer_type": "right_answer",
+    "claim": "Atlanta, Georgia",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 59,
+    "answer_type": "hallucinated_answer",
+    "claim": "The recently retired domed stadium in the southeastern United States, which was developed by the same authority that developed the Georgia World Congress Center, is actually located in the northern Georgia.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 60,
+    "answer_type": "right_answer",
+    "claim": "Ronald Wayne \"Ron\" Shelton",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 60,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ken Mora never won an Oscar, while Ron Shelton won.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 61,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 61,
+    "answer_type": "hallucinated_answer",
+    "claim": "One Hundred and One Dalmatians was a live-action film and Fun and Fancy Free was an animated one.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 62,
+    "answer_type": "right_answer",
+    "claim": "PetSmart",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 62,
+    "answer_type": "hallucinated_answer",
+    "claim": "The distribution center is for PetSmart and Target.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 63,
+    "answer_type": "right_answer",
+    "claim": "2009",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 63,
+    "answer_type": "hallucinated_answer",
+    "claim": "The water park Surfrider is in ranked first sometime in the early 2010s.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 64,
+    "answer_type": "right_answer",
+    "claim": "impressionism",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 64,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ricardo Viñes premiered the works of Maurice Ravel, who is associated with the romanticism style.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 65,
+    "answer_type": "right_answer",
+    "claim": "Eddie Steeples",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 65,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jaime Pressly is known for advertising OfficeMax.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 66,
+    "answer_type": "right_answer",
+    "claim": "E. G. Marshall",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 66,
+    "answer_type": "hallucinated_answer",
+    "claim": "Stefanie Powers starred in At Mother's Request.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 67,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 67,
+    "answer_type": "hallucinated_answer",
+    "claim": "Macworld is a tech website.",
+    "verdict": "Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 68,
+    "answer_type": "right_answer",
+    "claim": "Papal States",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 68,
+    "answer_type": "hallucinated_answer",
+    "claim": "Francesco Rospigliosi Pallavicini was born in Rome, in what was then the Italian duchies under papal control.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 69,
+    "answer_type": "right_answer",
+    "claim": "Sweden",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 69,
+    "answer_type": "hallucinated_answer",
+    "claim": "Finland",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 70,
+    "answer_type": "right_answer",
+    "claim": "Francis Stokes",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 70,
+    "answer_type": "hallucinated_answer",
+    "claim": "Roman Karmen directed \"God, Inc.\" with Francis Stokes.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 71,
+    "answer_type": "right_answer",
+    "claim": "Chrisann Brennan",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 71,
+    "answer_type": "hallucinated_answer",
+    "claim": "Lisa Brennan-Jobs is the daughter of an American writer, Chrisann Brennan.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 72,
+    "answer_type": "right_answer",
+    "claim": "Penobscot Bay",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 72,
+    "answer_type": "hallucinated_answer",
+    "claim": "Goose Rocks Light is located in a small bay in Maine known as South Bay.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 73,
+    "answer_type": "right_answer",
+    "claim": "John \"Jack\" Roland Redman",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 73,
+    "answer_type": "hallucinated_answer",
+    "claim": "Chester William Nimitz.",
+    "verdict": "Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 74,
+    "answer_type": "right_answer",
+    "claim": "board game",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 74,
+    "answer_type": "hallucinated_answer",
+    "claim": "Titan and Balderdash are both tabletop games.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 75,
+    "answer_type": "right_answer",
+    "claim": "Nevada",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 75,
+    "answer_type": "hallucinated_answer",
+    "claim": "Summer Nights took place at the Flamingo Las Vegas, located on the Las Vegas strip in the United States.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 76,
+    "answer_type": "right_answer",
+    "claim": "George Franklin Getty",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 76,
+    "answer_type": "hallucinated_answer",
+    "claim": "George Franklin Getty's father was a farmer.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 77,
+    "answer_type": "right_answer",
+    "claim": "Southwestern Athletic Conference",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 77,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Southwestern Athletic Conference does not include Alabama-based universities.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 78,
+    "answer_type": "right_answer",
+    "claim": "Pennsylvania",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 78,
+    "answer_type": "hallucinated_answer",
+    "claim": "Foxcatcher was set up in Illinois.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 79,
+    "answer_type": "right_answer",
+    "claim": "Australian",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 79,
+    "answer_type": "hallucinated_answer",
+    "claim": "As per my knowledge, the 2003 FIBA Under-19 World Championship MVP is a citizen of New Zealand.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 80,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 80,
+    "answer_type": "hallucinated_answer",
+    "claim": "Walter Pidgeon played a role in Big Red, but not in Bedtime Stories.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 81,
+    "answer_type": "right_answer",
+    "claim": "Nationalism",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 81,
+    "answer_type": "hallucinated_answer",
+    "claim": "The political ideology of The National Action Party was neocolonialism.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 82,
+    "answer_type": "right_answer",
+    "claim": "Northern",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 82,
+    "answer_type": "hallucinated_answer",
+    "claim": "The railway station in question is managed by Northern Rail.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 83,
+    "answer_type": "right_answer",
+    "claim": "Winn Mountain",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 83,
+    "answer_type": "hallucinated_answer",
+    "claim": "Cindy Williams is an award-winning news anchor for a tv station whose transmitter is located on Sebago Mountain.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 84,
+    "answer_type": "right_answer",
+    "claim": "Brothers Grimm",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 84,
+    "answer_type": "hallucinated_answer",
+    "claim": "Snow White is based on a German fairy tale by Hans Christian Andersen.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 85,
+    "answer_type": "right_answer",
+    "claim": "$8.6 billion",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 85,
+    "answer_type": "hallucinated_answer",
+    "claim": "Caesars Entertainment Corporation earned billions annually.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 86,
+    "answer_type": "right_answer",
+    "claim": "Alvin and the Chipmunks",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 86,
+    "answer_type": "hallucinated_answer",
+    "claim": "The American musical group that created \"Alvin for President\" is The Chipmunks.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 87,
+    "answer_type": "right_answer",
+    "claim": "Mahek Chahal",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 87,
+    "answer_type": "hallucinated_answer",
+    "claim": "Neetho starred a Norwegian actress.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 88,
+    "answer_type": "right_answer",
+    "claim": "Queen Elizabeth\"-class battleships",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 88,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Royal Navy Battleships used in WWI and WWII were \"Iron Duke\"-class battleships.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 89,
+    "answer_type": "right_answer",
+    "claim": "Douglas SBD Dauntless",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 89,
+    "answer_type": "hallucinated_answer",
+    "claim": "Tama Maru No. 2 was damaged by a Douglas F6F Hellcat.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 90,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 90,
+    "answer_type": "hallucinated_answer",
+    "claim": "Connie May Fowler and Vladimir Mayakovsky were both poets, but they had very different styles.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 91,
+    "answer_type": "right_answer",
+    "claim": "278 individuals",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 91,
+    "answer_type": "hallucinated_answer",
+    "claim": "The death toll for the Brooklyn Theatre fire is estimated to be around 300.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 92,
+    "answer_type": "right_answer",
+    "claim": "Big Ten",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 92,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jack Moore played collegiately at Nebraska, but his team was not in the Big Ten Conference.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 93,
+    "answer_type": "right_answer",
+    "claim": "American",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 93,
+    "answer_type": "hallucinated_answer",
+    "claim": "Gene Kelly was actually Irish.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 94,
+    "answer_type": "right_answer",
+    "claim": "\"Hansel and Gretel\"",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 94,
+    "answer_type": "hallucinated_answer",
+    "claim": "Der Bärenhäuter was influenced by Engelbert Humperdinck.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 95,
+    "answer_type": "right_answer",
+    "claim": "Ray Comfort",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 95,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Crocoduck was Kirk Cameron's idea.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 96,
+    "answer_type": "right_answer",
+    "claim": "British",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 96,
+    "answer_type": "hallucinated_answer",
+    "claim": "The racer who finished second in the 1964 French Grand Prix was Scottish.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 97,
+    "answer_type": "right_answer",
+    "claim": "André Kuipers",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 97,
+    "answer_type": "hallucinated_answer",
+    "claim": "Philippe Perrin is older.",
+    "verdict": "Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 98,
+    "answer_type": "right_answer",
+    "claim": "three",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 98,
+    "answer_type": "hallucinated_answer",
+    "claim": "Michael Edward Curry served as head coach for an American Professional basketball team that has won four NBA Championships.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 99,
+    "answer_type": "right_answer",
+    "claim": "Donny Hathaway",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 99,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"The Closer I Get to You\" is a romantic ballad performed by African American Roberta Flack and an Atlantic Records singer.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 100,
+    "answer_type": "right_answer",
+    "claim": "Penobscot Bay",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 100,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Gooden Grant House is located in the Atlantic Ocean near Maine.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 101,
+    "answer_type": "right_answer",
+    "claim": "the Troubles",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 101,
+    "answer_type": "hallucinated_answer",
+    "claim": "The author's non-fiction books are about terrorism.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 102,
+    "answer_type": "right_answer",
+    "claim": "American",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 102,
+    "answer_type": "hallucinated_answer",
+    "claim": "Squirrel Nut Zippers and Sponge have no common country of origin.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 103,
+    "answer_type": "right_answer",
+    "claim": "Wyomissing",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 103,
+    "answer_type": "hallucinated_answer",
+    "claim": "Hollywood Casino is owned by Penn National Gaming headquartered in Bethlehem, Pennsylvania.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 104,
+    "answer_type": "right_answer",
+    "claim": "1965",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 104,
+    "answer_type": "hallucinated_answer",
+    "claim": "Before directing \"One, Two, Many\", Michael DeLorenzo was born in 1965.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 105,
+    "answer_type": "right_answer",
+    "claim": "the science of thermodynamics",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 105,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Clausius–Clapeyron relation was named after a French chemist and mathematician considered a founding father of quantum physics.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 106,
+    "answer_type": "right_answer",
+    "claim": "October 1960",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 106,
+    "answer_type": "hallucinated_answer",
+    "claim": "Elvis Presley's \"G.I. Blues\" which was released for the motion picture \"G.I. Blues\"'s soundtrack was released in September 1962.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 107,
+    "answer_type": "right_answer",
+    "claim": "Deutsche Post DHL",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 107,
+    "answer_type": "hallucinated_answer",
+    "claim": "AeroLogic is a partnership between Lufthansa and Amazon.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 108,
+    "answer_type": "right_answer",
+    "claim": "Pierre Gasly",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 108,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 2017 Toro Rosso STR12 was driven by a Japanese racing driver named Yuki Tsunoda.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 109,
+    "answer_type": "right_answer",
+    "claim": "2004",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 109,
+    "answer_type": "hallucinated_answer",
+    "claim": "Panic! at the Disco was formed in 2005.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 110,
+    "answer_type": "right_answer",
+    "claim": "Help!",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 110,
+    "answer_type": "hallucinated_answer",
+    "claim": "The music program \"Yesterday\" was actually named after a song from the album \"Rubber Soul.\"",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 111,
+    "answer_type": "right_answer",
+    "claim": "The Appalachian Mountains",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 111,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Trenton Prong is a section of the Piedmont province of Antarctica that was formed roughly 480 million years ago.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 112,
+    "answer_type": "right_answer",
+    "claim": "Transformers",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 112,
+    "answer_type": "hallucinated_answer",
+    "claim": "Megan Fox's debut was in the 2007 American teen musical comedy film Confessions of a Teenage Drama Queen and she later went on to co-star in Transformers.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 113,
+    "answer_type": "right_answer",
+    "claim": "Serj Tankian",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 113,
+    "answer_type": "hallucinated_answer",
+    "claim": "Serj Tankian is a poet and musician in the band System of a Down.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 114,
+    "answer_type": "right_answer",
+    "claim": "2014",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 114,
+    "answer_type": "hallucinated_answer",
+    "claim": "The lead actor in Heartsounds died in 2014.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 115,
+    "answer_type": "right_answer",
+    "claim": "professional ballet dancer",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 115,
+    "answer_type": "hallucinated_answer",
+    "claim": "Dean McCarthy played a boy becoming a tap dancer in an adaptation of Billy Elliot.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 116,
+    "answer_type": "right_answer",
+    "claim": "Lewis Cass",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 116,
+    "answer_type": "hallucinated_answer",
+    "claim": "James Buchanan was passed over for Franklin Pierce.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 117,
+    "answer_type": "right_answer",
+    "claim": "American black bear",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 117,
+    "answer_type": "hallucinated_answer",
+    "claim": "Grizzly bear can be seen in Harriman State Park.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 118,
+    "answer_type": "right_answer",
+    "claim": "Walt Disney",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 118,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Barefoot Executive and The Last Flight of Noah's Ark were produced by different companies.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 119,
+    "answer_type": "right_answer",
+    "claim": "Hillary Rodham Clinton",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 119,
+    "answer_type": "hallucinated_answer",
+    "claim": "The first female senator of New York served two terms representing New York in the United States Senate.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 120,
+    "answer_type": "right_answer",
+    "claim": "934,243",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 120,
+    "answer_type": "hallucinated_answer",
+    "claim": "The population of the city near Trim is 874,243.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 121,
+    "answer_type": "right_answer",
+    "claim": "1948 and 1964",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 121,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mark Lazarus clashed with the manager of Wolverhampton Wanderers during the years of 1950 and 1960.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 122,
+    "answer_type": "right_answer",
+    "claim": "Lahti, Finland",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 122,
+    "answer_type": "hallucinated_answer",
+    "claim": "The World Games was never held in Lahti.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 123,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 123,
+    "answer_type": "hallucinated_answer",
+    "claim": "Yes, both are monthly magazines.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 124,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 124,
+    "answer_type": "hallucinated_answer",
+    "claim": "No, Lucie Šafářová is a Czech professional tennis player, while Pavel Složil is a Czech amateur tennis player.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 125,
+    "answer_type": "right_answer",
+    "claim": "I Am Legend",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 125,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Hunger Games.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 126,
+    "answer_type": "right_answer",
+    "claim": "Judy Loe",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 126,
+    "answer_type": "hallucinated_answer",
+    "claim": "The actress who starred in Space Island One is married to Roy Battersby, is Judy Loe.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 127,
+    "answer_type": "right_answer",
+    "claim": "Martha Coolidge",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 127,
+    "answer_type": "hallucinated_answer",
+    "claim": "Martha Coolidge directed a comedy.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 128,
+    "answer_type": "right_answer",
+    "claim": "$145,000",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 128,
+    "answer_type": "hallucinated_answer",
+    "claim": "The owner donated $154,000.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 129,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 129,
+    "answer_type": "hallucinated_answer",
+    "claim": "No, William Faulkner was from Mississippi.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 130,
+    "answer_type": "right_answer",
+    "claim": "one of the nine Census Bureau Divisions",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 130,
+    "answer_type": "hallucinated_answer",
+    "claim": "Kentucky is located in the southern region.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 131,
+    "answer_type": "right_answer",
+    "claim": "New York City",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 131,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Spiral and 270 Park Avenue are located in Boston.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 132,
+    "answer_type": "right_answer",
+    "claim": "Washington, D.C.",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 132,
+    "answer_type": "hallucinated_answer",
+    "claim": "George Washington University Hospital and Psychiatric Institute of Washington are two different hospitals located in different cities.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 133,
+    "answer_type": "right_answer",
+    "claim": "magazine",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 133,
+    "answer_type": "hallucinated_answer",
+    "claim": "Grazia and JJ are both lifestyle periodicals.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 134,
+    "answer_type": "right_answer",
+    "claim": "producer",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 134,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jeremy Theobald and Christopher Nolan are both film makers.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 135,
+    "answer_type": "right_answer",
+    "claim": "24 January 1953",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 135,
+    "answer_type": "hallucinated_answer",
+    "claim": "The president of South Korea was born on January 24th.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 136,
+    "answer_type": "right_answer",
+    "claim": "St. Louis Blues",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 136,
+    "answer_type": "hallucinated_answer",
+    "claim": "Lars Eller was actually drafted by the Toronto Maple Leafs.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 137,
+    "answer_type": "right_answer",
+    "claim": "Sex and the City",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 137,
+    "answer_type": "hallucinated_answer",
+    "claim": "Cynthia Nixon received her awards for her performance in \"Modern Family.\"",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 138,
+    "answer_type": "right_answer",
+    "claim": "Gong Yoo",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 138,
+    "answer_type": "hallucinated_answer",
+    "claim": "The actor's stage name in the 2016 film \"Train to Busan\" with Jung Yu-mi and Ma Dong-seok is Gong Yu.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 139,
+    "answer_type": "right_answer",
+    "claim": "New Jersey",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 139,
+    "answer_type": "hallucinated_answer",
+    "claim": "Frank Lautenberg was from New York.",
+    "verdict": "Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 140,
+    "answer_type": "right_answer",
+    "claim": "Bazooka",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 140,
+    "answer_type": "hallucinated_answer",
+    "claim": "Colonel Skinner developed a stove.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 141,
+    "answer_type": "right_answer",
+    "claim": "41",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 141,
+    "answer_type": "hallucinated_answer",
+    "claim": "Lars Kristinus Larsen founded Jysk, a retail chain that operates in over 50 countries.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 142,
+    "answer_type": "right_answer",
+    "claim": "London, England",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 142,
+    "answer_type": "hallucinated_answer",
+    "claim": "The headquarters of Diageo is in Manchester, England.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 143,
+    "answer_type": "right_answer",
+    "claim": "1755",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 143,
+    "answer_type": "hallucinated_answer",
+    "claim": "Marie Antoinette was born in 1755.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 144,
+    "answer_type": "right_answer",
+    "claim": "San Francisco, California",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 144,
+    "answer_type": "hallucinated_answer",
+    "claim": "The band of \"Brujo\" came from Los Angeles.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 145,
+    "answer_type": "right_answer",
+    "claim": "Travel Channel",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 145,
+    "answer_type": "hallucinated_answer",
+    "claim": "The show \"Vegas Stripped\" was aired on Oxygen Channel.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 146,
+    "answer_type": "right_answer",
+    "claim": "Gotham",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 146,
+    "answer_type": "hallucinated_answer",
+    "claim": "Batman Begins has a spin-off TV series called Gotham.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 147,
+    "answer_type": "right_answer",
+    "claim": "Daytona Beach, Florida",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 147,
+    "answer_type": "hallucinated_answer",
+    "claim": "Cancun, Mexico was a site for Jeopardy! Collect Championship contestant searches.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 148,
+    "answer_type": "right_answer",
+    "claim": "Real Madrid and FC Barcelona",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 148,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 2011 Copa del Rey was a specific type of rivalry between Southern Hemisphere and Northern Hemisphere teams.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 149,
+    "answer_type": "right_answer",
+    "claim": "You Spin Me Round (Like a Record)",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 149,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"You Spin Me Round (Like a Record)\" was actually not the first UK number-one hit by the Stock Aitken Waterman production trio. Their first UK number-one hit was \"Respectable\" by Mel and Kim.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 150,
+    "answer_type": "right_answer",
+    "claim": "6.213 km long",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 150,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Mount Panorama Circuit track is longer than 7 km.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 151,
+    "answer_type": "right_answer",
+    "claim": "31st Disney animated feature",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 151,
+    "answer_type": "hallucinated_answer",
+    "claim": "The American animation studio founded by Terry and Sue Shakespeare with David Molina in 1989 was the main animation studio for the film.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 152,
+    "answer_type": "right_answer",
+    "claim": "One Love",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 152,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"When Love Takes Over\".",
+    "verdict": "Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 153,
+    "answer_type": "right_answer",
+    "claim": "San Rafael, California",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 153,
+    "answer_type": "hallucinated_answer",
+    "claim": "The bassist of the band who released Voivod was originally in a band based in San Francisco.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 154,
+    "answer_type": "right_answer",
+    "claim": "Love/Hate",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 154,
+    "answer_type": "hallucinated_answer",
+    "claim": "Simone Kirby was not in any Irish dramatic television series that aired between 2010 and 2014 on RTÉ Television.",
+    "verdict": "Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 155,
+    "answer_type": "right_answer",
+    "claim": "Cardiospermum",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 155,
+    "answer_type": "hallucinated_answer",
+    "claim": "Chestnut has more species than Cardiospermum.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 156,
+    "answer_type": "right_answer",
+    "claim": "Niagara Falls Flyers",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 156,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 1965 Memorial Cup final was won by the Edmonton Oil Kings of Western Canada.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 157,
+    "answer_type": "right_answer",
+    "claim": "2007",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 157,
+    "answer_type": "hallucinated_answer",
+    "claim": "Florentijn Hofman created the largest rubber duck sculpture in 2008.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 158,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 158,
+    "answer_type": "hallucinated_answer",
+    "claim": "Thunbergia and Teucrium are both part of the same family.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 159,
+    "answer_type": "right_answer",
+    "claim": "September, 52 BC",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 159,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Battle of Alesia took place during the early stages of the Roman Empire.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 160,
+    "answer_type": "right_answer",
+    "claim": "Liverpool Football Club",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 160,
+    "answer_type": "hallucinated_answer",
+    "claim": "John Carlin did not play for a Premier League team in 1902.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 161,
+    "answer_type": "right_answer",
+    "claim": "1972–73 NBA season",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 161,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Rockets acquired Hayes from Washington.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 162,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 162,
+    "answer_type": "hallucinated_answer",
+    "claim": "Yes, both documentaries were directed by Johannes Grenzfurthner.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 163,
+    "answer_type": "right_answer",
+    "claim": "eight",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 163,
+    "answer_type": "hallucinated_answer",
+    "claim": "Nine episodes.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 164,
+    "answer_type": "right_answer",
+    "claim": "Trafford Park",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 164,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ernest Terah Hooley bought Trafford Park.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 165,
+    "answer_type": "right_answer",
+    "claim": "Twin Peaks",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 165,
+    "answer_type": "hallucinated_answer",
+    "claim": "The actor played General Hammond in Lost.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 166,
+    "answer_type": "right_answer",
+    "claim": "racing",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 166,
+    "answer_type": "hallucinated_answer",
+    "claim": "United Autosports and Zak Brown are both involved in motorsports.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 167,
+    "answer_type": "right_answer",
+    "claim": "Lanoxin",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 167,
+    "answer_type": "hallucinated_answer",
+    "claim": "Turbidimetric inhibition immunoassay is used in many commercial immunoassays, including several medications.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 168,
+    "answer_type": "right_answer",
+    "claim": "English",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 168,
+    "answer_type": "hallucinated_answer",
+    "claim": "Siouxsie Sioux is actually Welsh.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 169,
+    "answer_type": "right_answer",
+    "claim": "2001",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 169,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Woh Ladki Hai Kahan\" was released in 2000.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 170,
+    "answer_type": "right_answer",
+    "claim": "Jack Bender",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 170,
+    "answer_type": "hallucinated_answer",
+    "claim": "Bride of Chucky is actually a sequel to a movie directed by Wes Craven.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 171,
+    "answer_type": "right_answer",
+    "claim": "\"Crenshaw\"",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 171,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jay-Z bought 100 copies of Nipsey Hussle's \"most popular\" mixtape.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 172,
+    "answer_type": "right_answer",
+    "claim": "Jessica Biel",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 172,
+    "answer_type": "hallucinated_answer",
+    "claim": "The lead actress of the 2015 American drama film \"Bleeding Heart\" was also born in 1982.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 173,
+    "answer_type": "right_answer",
+    "claim": "Berton Averre and Doug Fieger",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 173,
+    "answer_type": "hallucinated_answer",
+    "claim": "The song which was ahead of \"After the Love Has Gone\" on the Billboard Hot 100 singles chart was written by two musicians.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 174,
+    "answer_type": "right_answer",
+    "claim": "Wayne Kramer",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 174,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Album Sin was produced by an unknown producer.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 175,
+    "answer_type": "right_answer",
+    "claim": "20%",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 175,
+    "answer_type": "hallucinated_answer",
+    "claim": "Only a small percentage.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 176,
+    "answer_type": "right_answer",
+    "claim": "human sacrifice",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 176,
+    "answer_type": "hallucinated_answer",
+    "claim": "The cultural trait of worshipping deities was shared among the pre-Columbian Aztec civilization, Maya, Zapotec, and Nicarao.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 177,
+    "answer_type": "right_answer",
+    "claim": "Disney",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 177,
+    "answer_type": "hallucinated_answer",
+    "claim": "Roshon Fegan and Camp Rock are associated with Nickelodeon.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 178,
+    "answer_type": "right_answer",
+    "claim": "Jewel",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 178,
+    "answer_type": "hallucinated_answer",
+    "claim": "Taylor Swift has released the lead song for the 2010 romantic comedy \"Valentine's Day\".",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 179,
+    "answer_type": "right_answer",
+    "claim": "John Freshwater",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 179,
+    "answer_type": "hallucinated_answer",
+    "claim": "The former science teacher was fired for advocating his religious beliefs.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 180,
+    "answer_type": "right_answer",
+    "claim": "U.S. Century Bank Arena",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 180,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Panthers played at Golden Gopher Arena.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 181,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 181,
+    "answer_type": "hallucinated_answer",
+    "claim": "Yes, both were written by French composers.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 182,
+    "answer_type": "right_answer",
+    "claim": "9,818",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 182,
+    "answer_type": "hallucinated_answer",
+    "claim": "The population is 8,000 in 2010.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 183,
+    "answer_type": "right_answer",
+    "claim": "October 17, 1972",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 183,
+    "answer_type": "hallucinated_answer",
+    "claim": "The creator of the series was born on an unknown day in October, 1972.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 184,
+    "answer_type": "right_answer",
+    "claim": "Manute Bol",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 184,
+    "answer_type": "hallucinated_answer",
+    "claim": "The USBL Basketball player with a name meaning \"Special blessing\" is Robert Rose.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 185,
+    "answer_type": "right_answer",
+    "claim": "Cupertino, California",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 185,
+    "answer_type": "hallucinated_answer",
+    "claim": "The headquarters of the designer of Apple Bandai Pippin is in San Francisco, California.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 186,
+    "answer_type": "right_answer",
+    "claim": "Betty White",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 186,
+    "answer_type": "hallucinated_answer",
+    "claim": "Rue McClanahan had the opportunity to reunite with Estelle Getty in Ladies Man.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 187,
+    "answer_type": "right_answer",
+    "claim": "born 14 November 1964",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 187,
+    "answer_type": "hallucinated_answer",
+    "claim": "Katty Kay was born in November.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 188,
+    "answer_type": "right_answer",
+    "claim": "aircraft of any sort",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 188,
+    "answer_type": "hallucinated_answer",
+    "claim": "Félix du Temple de la Croix is credited with the development of the first successful bird-like flying machines.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 189,
+    "answer_type": "right_answer",
+    "claim": "Sunbeam Television",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 189,
+    "answer_type": "hallucinated_answer",
+    "claim": "Boston Broadcasting Corporation.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 190,
+    "answer_type": "right_answer",
+    "claim": "DreamWorks Animation",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 190,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Puss in Boots: The Three Diablos\" sequel producer: Pixar.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 191,
+    "answer_type": "right_answer",
+    "claim": "25 May",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 191,
+    "answer_type": "hallucinated_answer",
+    "claim": "The German–Finnish driver won The 2014 Monaco Grand Prix on a sunny day in May.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 192,
+    "answer_type": "right_answer",
+    "claim": "Abraham Lincoln",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 192,
+    "answer_type": "hallucinated_answer",
+    "claim": "John Surratt was suspected in involvement of the assassination of John F. Kennedy in April 1965.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 193,
+    "answer_type": "right_answer",
+    "claim": "Steven Lee Lukather",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 193,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mark Rankin recorded more tracks.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 194,
+    "answer_type": "right_answer",
+    "claim": "Architectural Digest",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 194,
+    "answer_type": "hallucinated_answer",
+    "claim": "Human Rights Quarterly came out first.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 195,
+    "answer_type": "right_answer",
+    "claim": "U.S. Virgin Islands",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 195,
+    "answer_type": "hallucinated_answer",
+    "claim": "Julius Jackson is the son of the boxer from the Caribbean.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 196,
+    "answer_type": "right_answer",
+    "claim": "Roger Christian",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 196,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jake David Shapiro was best known for being the screenwriter of a film directed by Steven Spielberg.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 197,
+    "answer_type": "right_answer",
+    "claim": "Johnson & Johnson",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 197,
+    "answer_type": "hallucinated_answer",
+    "claim": "Amritt Ventures does not have a notable client in the medical device, pharmaceutical and consumer packaged goods manufacturing industry.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 198,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 198,
+    "answer_type": "hallucinated_answer",
+    "claim": "Yes, The Mosuo Sisters and Quantum Hoops were released in the same year.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 199,
+    "answer_type": "right_answer",
+    "claim": "San Jose Sharks",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 199,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jannik Hansen was never part of the Portland Winterhawks.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 200,
+    "answer_type": "right_answer",
+    "claim": "the Bee Gees",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 200,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Walls Have Eyes was produced by a member of Gibb family.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 201,
+    "answer_type": "right_answer",
+    "claim": "Pro Wrestling Fujiwara Group",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 201,
+    "answer_type": "hallucinated_answer",
+    "claim": "Minoru Suzuki was a founding member of Pro Wrestling Fujiwara Group, one of the most popular wrestling promotions based in Tokyo.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 202,
+    "answer_type": "right_answer",
+    "claim": "Jon Sensbach",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 202,
+    "answer_type": "hallucinated_answer",
+    "claim": "Dana Robert graduated from the University of Florida.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 203,
+    "answer_type": "right_answer",
+    "claim": "24,841",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 203,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sarah Beth James's hometown population is 30,000.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 204,
+    "answer_type": "right_answer",
+    "claim": "MS-13",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 204,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Mexican Mafia gang that originated in Los Angeles, California, US in the 1980s is not Sureños, including MS-13.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 205,
+    "answer_type": "right_answer",
+    "claim": "Robert Erskine Childers",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 205,
+    "answer_type": "hallucinated_answer",
+    "claim": "Actually, both Mervyn Peake and Robert Erskine Childers wrote \"The Riddle of the Sands\".",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 206,
+    "answer_type": "right_answer",
+    "claim": "Charles, Prince of Wales",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 206,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sophia of Hanover named glacier.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 207,
+    "answer_type": "right_answer",
+    "claim": "HK$ 100 million",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 207,
+    "answer_type": "hallucinated_answer",
+    "claim": "HK$ 20 million",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 208,
+    "answer_type": "right_answer",
+    "claim": "Aspiro AB",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 208,
+    "answer_type": "hallucinated_answer",
+    "claim": "Only select Tidal users can access Die with you's footage, unknown which company maintains it.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 209,
+    "answer_type": "right_answer",
+    "claim": "Cosmopolitan",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 209,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Progressive was founded first.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 210,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 210,
+    "answer_type": "hallucinated_answer",
+    "claim": "Károly Makk and Marco Bellocchio are both involved in the film industry.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 211,
+    "answer_type": "right_answer",
+    "claim": "north",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 211,
+    "answer_type": "hallucinated_answer",
+    "claim": "south",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 212,
+    "answer_type": "right_answer",
+    "claim": "Adriana Lima",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 212,
+    "answer_type": "hallucinated_answer",
+    "claim": "Miranda Kerr was absent in the 2009 show.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 213,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 213,
+    "answer_type": "hallucinated_answer",
+    "claim": "A Goofy Movie and Ride a Wild Pony were produced by affiliated companies.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 214,
+    "answer_type": "right_answer",
+    "claim": "San Antonio",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 214,
+    "answer_type": "hallucinated_answer",
+    "claim": "Howl-O-Scream is an annual event at SeaWorld San Antonio, which is located in the Texas district.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 215,
+    "answer_type": "right_answer",
+    "claim": "James Aaron Diamond",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 215,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ontronik Khachaturian was born first.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 216,
+    "answer_type": "right_answer",
+    "claim": "Broad Foundation",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 216,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Biden Foundation",
+    "verdict": "Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 217,
+    "answer_type": "right_answer",
+    "claim": "Chief Mouser to the Cabinet Office",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 217,
+    "answer_type": "hallucinated_answer",
+    "claim": "The official name for Larry, the 10 Downing Street cat, is \"Cat Chancellor\".",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 218,
+    "answer_type": "right_answer",
+    "claim": "June 7, 2017",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 218,
+    "answer_type": "hallucinated_answer",
+    "claim": "Bob Stoops retired in 2017.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 219,
+    "answer_type": "right_answer",
+    "claim": "Karl Ferdinand Braun",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 219,
+    "answer_type": "hallucinated_answer",
+    "claim": "Le Chatelier's principle is sometimes named after German inventor Braun.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 220,
+    "answer_type": "right_answer",
+    "claim": "Alexa Vega",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 220,
+    "answer_type": "hallucinated_answer",
+    "claim": "Robbie Amell, the Canadian actor in The Hunters, starred opposite Alexa Vega.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 221,
+    "answer_type": "right_answer",
+    "claim": "Harry S. Truman",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 221,
+    "answer_type": "hallucinated_answer",
+    "claim": "David Frederick Wallace was the brother of a First Lady who was married to Franklin D. Roosevelt.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 222,
+    "answer_type": "right_answer",
+    "claim": "Los Angeles",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 222,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Bangles covered the song in Santa Monica.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 223,
+    "answer_type": "right_answer",
+    "claim": "1958",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 223,
+    "answer_type": "hallucinated_answer",
+    "claim": "Todd Fisher was born after Carrie.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 224,
+    "answer_type": "right_answer",
+    "claim": "January 28, 1940",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 224,
+    "answer_type": "hallucinated_answer",
+    "claim": "Fernando Romero's billionaire father-in-law was born on a summer morning.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 225,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 225,
+    "answer_type": "hallucinated_answer",
+    "claim": "King Charles is from West London, while Sparta is not from the same country.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 226,
+    "answer_type": "right_answer",
+    "claim": "Shailene Diann Woodley",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 226,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Fault in Our Stars actress was born in San Bernardino County.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 227,
+    "answer_type": "right_answer",
+    "claim": "Outfit",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 227,
+    "answer_type": "hallucinated_answer",
+    "claim": "Charles \"Chuckie\" Anthony Nicoletti and Salvatore \"Mooney Sam\" Giancana were part of a vigilante group.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 228,
+    "answer_type": "right_answer",
+    "claim": "choreographer",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 228,
+    "answer_type": "hallucinated_answer",
+    "claim": "Alex Joseph \"AJ\" Pritchard reached the semi-finals of \"Britain's Got Talent\" with his partner, a 1995 born dancer and a singer.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 229,
+    "answer_type": "right_answer",
+    "claim": "Calendula",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 229,
+    "answer_type": "hallucinated_answer",
+    "claim": "Purshia has more species.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 230,
+    "answer_type": "right_answer",
+    "claim": "United States",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 230,
+    "answer_type": "hallucinated_answer",
+    "claim": "Both have \"Wainscott\" in common.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 231,
+    "answer_type": "right_answer",
+    "claim": "primary mode of transportation for the Runaways.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 231,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Leapfrog is used by a super-villain team in Marvel Comics.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 232,
+    "answer_type": "right_answer",
+    "claim": "Tangier",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 232,
+    "answer_type": "hallucinated_answer",
+    "claim": "High Tider dialect is spoken in Tangier, Virginia.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 233,
+    "answer_type": "right_answer",
+    "claim": "Zeppelinfeld",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 233,
+    "answer_type": "hallucinated_answer",
+    "claim": "The final was played at a completely different stadium.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 234,
+    "answer_type": "right_answer",
+    "claim": "Andrés Gómez",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 234,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mate Pavić started playing tennis first.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 235,
+    "answer_type": "right_answer",
+    "claim": "\"American Pie\"",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 235,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"American Pie,\" \"American Pie 2,\" \"American Wedding,\" \"American Reunion,\" and \"Alien Covenant\"",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 236,
+    "answer_type": "right_answer",
+    "claim": "The section around the crossing of the River Ribble",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 236,
+    "answer_type": "hallucinated_answer",
+    "claim": "The section around the crossing of the River Dee.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 237,
+    "answer_type": "right_answer",
+    "claim": "Daniele Massaro",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 237,
+    "answer_type": "hallucinated_answer",
+    "claim": "Daniele Massaro scored two goals.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 238,
+    "answer_type": "right_answer",
+    "claim": "The Venetian Macao",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 238,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Macao Vegas Casino is the largest casino in the world.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 239,
+    "answer_type": "right_answer",
+    "claim": "opera",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 239,
+    "answer_type": "hallucinated_answer",
+    "claim": "Helge Lindberg was inspired by George Frideric Handel, but their musical styles were completely different.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 240,
+    "answer_type": "right_answer",
+    "claim": "English",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 240,
+    "answer_type": "hallucinated_answer",
+    "claim": "Russ Abbot, an English, starred.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 241,
+    "answer_type": "right_answer",
+    "claim": "Salem, Missouri,",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 241,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Dillards were formed in Canada.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 242,
+    "answer_type": "right_answer",
+    "claim": "Ecuadorian",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 242,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 2010 FA Community Shield had a goal by the left winger who is of Mexican nationality.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 243,
+    "answer_type": "right_answer",
+    "claim": "Marc Cherry",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 243,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Now I Know, Don’t Be Scared\" is the 76th episode of the ABC television series, \"Desperate Housewives\", a Canadian television show created by Marc Cherry.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 244,
+    "answer_type": "right_answer",
+    "claim": "Ernst Julius Günther Röhm",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 244,
+    "answer_type": "hallucinated_answer",
+    "claim": "Colonel Pyat, an incarnation of the Eternal Champion, goes to Italy and Germany, where he becomes involved in Fascism and Naziism, including sexual encounters with Joseph Goebbels.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 245,
+    "answer_type": "right_answer",
+    "claim": "Slade",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 245,
+    "answer_type": "hallucinated_answer",
+    "claim": "Van Halen is responsible for bolstering Quiet Riot's hit \"Metal Health.\"",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 246,
+    "answer_type": "right_answer",
+    "claim": "Pavlos, Crown Prince of Greece",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 246,
+    "answer_type": "hallucinated_answer",
+    "claim": "Pavlos, Crown Prince of Greece was never crowned.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 247,
+    "answer_type": "right_answer",
+    "claim": "dairy products",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 247,
+    "answer_type": "hallucinated_answer",
+    "claim": "Kerrygold Irish Cream Liqueur is owned by a company that mainly sells agricultural products.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 248,
+    "answer_type": "right_answer",
+    "claim": "Leicester",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 248,
+    "answer_type": "hallucinated_answer",
+    "claim": "The last champion of the FFB Open was a Scottish professional snooker player.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 249,
+    "answer_type": "right_answer",
+    "claim": "Claire Skinner",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 249,
+    "answer_type": "hallucinated_answer",
+    "claim": "Emily Watson",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 250,
+    "answer_type": "right_answer",
+    "claim": "Suzy Bogguss",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 250,
+    "answer_type": "hallucinated_answer",
+    "claim": "Judy Collins and Moe Bandy recorded Someday Soon with Suzy Bogguss.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 251,
+    "answer_type": "right_answer",
+    "claim": "Yamoussoukro",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 251,
+    "answer_type": "hallucinated_answer",
+    "claim": "The political capital is Abidjan.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 252,
+    "answer_type": "right_answer",
+    "claim": "Fox Television Group",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 252,
+    "answer_type": "hallucinated_answer",
+    "claim": "Rupert Murdoch's 21st Century Fox.",
+    "verdict": "Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 253,
+    "answer_type": "right_answer",
+    "claim": "John Lennon",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 253,
+    "answer_type": "hallucinated_answer",
+    "claim": "One artist who made those two studio albums is Paul McCartney.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 254,
+    "answer_type": "right_answer",
+    "claim": "2017",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 254,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Children Act was released in 2018.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 255,
+    "answer_type": "right_answer",
+    "claim": "Prince",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 255,
+    "answer_type": "hallucinated_answer",
+    "claim": "The song \"Partyman\" was written by Michael Jackson.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 256,
+    "answer_type": "right_answer",
+    "claim": "The Melvins",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 256,
+    "answer_type": "hallucinated_answer",
+    "claim": "Better Than Ezra formed in 1985.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 257,
+    "answer_type": "right_answer",
+    "claim": "Albany, New York",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 257,
+    "answer_type": "hallucinated_answer",
+    "claim": "Douglas M. North is the head of Academies.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 258,
+    "answer_type": "right_answer",
+    "claim": "South Korean",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 258,
+    "answer_type": "hallucinated_answer",
+    "claim": "The nationality of actors in that movie is from various countries.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 259,
+    "answer_type": "right_answer",
+    "claim": "The Saimaa Gesture",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 259,
+    "answer_type": "hallucinated_answer",
+    "claim": "Adam Clayton Powell is about civil rights leader.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 260,
+    "answer_type": "right_answer",
+    "claim": "1945",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 260,
+    "answer_type": "hallucinated_answer",
+    "claim": "The pioneers of managed care in the United States were established in 1950.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 261,
+    "answer_type": "right_answer",
+    "claim": "USS \"Maryland\"",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 261,
+    "answer_type": "hallucinated_answer",
+    "claim": "Eugene E. Lindsey served in USS \"Colorado\".",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 262,
+    "answer_type": "right_answer",
+    "claim": "Blackfield & Langley Football Club",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 262,
+    "answer_type": "hallucinated_answer",
+    "claim": "The football club you are asking about is the Blackfield Soccer Team.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 263,
+    "answer_type": "right_answer",
+    "claim": "mountain",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 263,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sherpi Kangri and Kangpenqing are related to the same landmass.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 264,
+    "answer_type": "right_answer",
+    "claim": "World War II",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 264,
+    "answer_type": "hallucinated_answer",
+    "claim": "Roy Nielsen and Max Manus both fought for peace.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 265,
+    "answer_type": "right_answer",
+    "claim": "Gianluca Vialli",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 265,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 1990-91 U.C. Sampdoria season was the year of Paolo Maldini.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 266,
+    "answer_type": "right_answer",
+    "claim": "Botswana",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 266,
+    "answer_type": "hallucinated_answer",
+    "claim": "Donald Molosi won an award for his performance as the first colonizer of Botswana in \"Blue, Black and White\".",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 267,
+    "answer_type": "right_answer",
+    "claim": "1989",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 267,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Now That's What I Call Music! 56\" features three songs from a 2014 studio album, including \"Bad Blood\" by Taylor Swift./n",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 268,
+    "answer_type": "right_answer",
+    "claim": "Peter Riegert",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 268,
+    "answer_type": "hallucinated_answer",
+    "claim": "The main actor in \"American Pastoral\" is Donald \"Boon\" Schoenstein from \"Animal House\".",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 269,
+    "answer_type": "right_answer",
+    "claim": "Warrior\" (2011), \"The Grey\" (2012), \"End of Watch\" (2012) and \"Zero Dark Thirty\" (2012)",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 269,
+    "answer_type": "hallucinated_answer",
+    "claim": "Frank Grillo portrayed Sergeant Leo Barnes in \"Captain America: The Winter Soldier\" (2014), \"Captain America: Civil War\" (2016), \"Avengers: Endgame\" (2019), and \"Spider-Man: Far From Home\" (2019).",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 270,
+    "answer_type": "right_answer",
+    "claim": "The Monk",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 270,
+    "answer_type": "hallucinated_answer",
+    "claim": "The nickname of the leader of Christy Kinahan's rival gang is \"The Phantom.\"",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 271,
+    "answer_type": "right_answer",
+    "claim": "documentary",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 271,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Transparent\" and \"Werner Herzog Eats His Shoe\" are examples of unconventional documentaries.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 272,
+    "answer_type": "right_answer",
+    "claim": "1987",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 272,
+    "answer_type": "hallucinated_answer",
+    "claim": "Rebecca Sugar, who wrote \"Incendium,\" was born in 1982.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 273,
+    "answer_type": "right_answer",
+    "claim": "Demolition",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 273,
+    "answer_type": "hallucinated_answer",
+    "claim": "Deliverance Creek and The Open House.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 274,
+    "answer_type": "right_answer",
+    "claim": "Ovidius University",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 274,
+    "answer_type": "hallucinated_answer",
+    "claim": "Inna studied at Mangalia University.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 275,
+    "answer_type": "right_answer",
+    "claim": "Howard M. Mitchell",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 275,
+    "answer_type": "hallucinated_answer",
+    "claim": "Richard Boleslawski was a prolific director.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 276,
+    "answer_type": "right_answer",
+    "claim": "National Basketball Association (NBA)",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 276,
+    "answer_type": "hallucinated_answer",
+    "claim": "San Antonio Spurs.",
+    "verdict": "Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 277,
+    "answer_type": "right_answer",
+    "claim": "Bosnia and Herzegovina",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 277,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sarajevo, a beautiful European city.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 278,
+    "answer_type": "right_answer",
+    "claim": "Fritz the Cat",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 278,
+    "answer_type": "hallucinated_answer",
+    "claim": "Manuel \"Manny\" Perez worked on Robert Crumb's famous \"Maakies\" comic strip in his later career.",
+    "verdict": "Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 279,
+    "answer_type": "right_answer",
+    "claim": "Michelle Pfeiffer",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 279,
+    "answer_type": "hallucinated_answer",
+    "claim": "The crime thriller was \"Lethal Weapon 2\".",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 280,
+    "answer_type": "right_answer",
+    "claim": "Mount Massive Asylum",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 280,
+    "answer_type": "hallucinated_answer",
+    "claim": "The game is focused on an isolated hospital.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 281,
+    "answer_type": "right_answer",
+    "claim": "Wynantskill",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 281,
+    "answer_type": "hallucinated_answer",
+    "claim": "The highway ends at North Greenbush.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 282,
+    "answer_type": "right_answer",
+    "claim": "midfielder",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 282,
+    "answer_type": "hallucinated_answer",
+    "claim": "Tobias Schweinsteiger's brother is part of the Chicago Fire, but not as a midfielder.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 283,
+    "answer_type": "right_answer",
+    "claim": "Corpse Bride",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 283,
+    "answer_type": "hallucinated_answer",
+    "claim": "Caroline Thompson based a film screenplay in a fictional Victorian era village for Edward Scissorhands.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 284,
+    "answer_type": "right_answer",
+    "claim": "Tim Burton",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 284,
+    "answer_type": "hallucinated_answer",
+    "claim": "The director of ''9'', Shane Acker, was inspired by the short film to create the feature-length movie.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 285,
+    "answer_type": "right_answer",
+    "claim": "1890",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 285,
+    "answer_type": "hallucinated_answer",
+    "claim": "Whitey Hilcher played for the Cincinnati Reds in the 1920s.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 286,
+    "answer_type": "right_answer",
+    "claim": "2006",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 286,
+    "answer_type": "hallucinated_answer",
+    "claim": "Gene Pitney died in 2005.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 287,
+    "answer_type": "right_answer",
+    "claim": "William \"Bill\" Murray",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 287,
+    "answer_type": "hallucinated_answer",
+    "claim": "The man who was also known as M. Bible had a half-brother named William \"Bill\" Murray.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 288,
+    "answer_type": "right_answer",
+    "claim": "Air Force, Incorporated",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 288,
+    "answer_type": "hallucinated_answer",
+    "claim": "Body of War came out first.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 289,
+    "answer_type": "right_answer",
+    "claim": "Southern Methodist University",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 289,
+    "answer_type": "hallucinated_answer",
+    "claim": "Stagger Lee was developed in collaboration with the school of arts at University of Texas.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 290,
+    "answer_type": "right_answer",
+    "claim": "Bauhinia",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 290,
+    "answer_type": "hallucinated_answer",
+    "claim": "Cestrum has more species than Bauhinia.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 291,
+    "answer_type": "right_answer",
+    "claim": "Medal of Honor",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 291,
+    "answer_type": "hallucinated_answer",
+    "claim": "Herman G. Tillman, Jr. was the wingman for the raid by the aviation pioneer who received the Distinguished Flying Cross for valor during a raid in 1942.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 292,
+    "answer_type": "right_answer",
+    "claim": "Greek extreme metal band",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 292,
+    "answer_type": "hallucinated_answer",
+    "claim": "Aealo and Rotting Christ both use traditional Greek musical instruments.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 293,
+    "answer_type": "right_answer",
+    "claim": "John Buccigross",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 293,
+    "answer_type": "hallucinated_answer",
+    "claim": "Dan Patrick replaced Robert Flores.",
+    "verdict": "Unverifiable",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 294,
+    "answer_type": "right_answer",
+    "claim": "poet and composer",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 294,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ivor Gurney and Robert Walser shared a passion for creating beautiful and inspiring works of art.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 295,
+    "answer_type": "right_answer",
+    "claim": "Jardine Matheson Holdings",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 295,
+    "answer_type": "hallucinated_answer",
+    "claim": "Market Place by Jasons is owned by Dairy Farm International Holdings.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 296,
+    "answer_type": "right_answer",
+    "claim": "Don Black",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 296,
+    "answer_type": "hallucinated_answer",
+    "claim": "Don Black is a lyrist.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 297,
+    "answer_type": "right_answer",
+    "claim": "England",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 297,
+    "answer_type": "hallucinated_answer",
+    "claim": "Charles Runnington was born in a city in southern England.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 298,
+    "answer_type": "right_answer",
+    "claim": "Garry Marshall",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 298,
+    "answer_type": "hallucinated_answer",
+    "claim": "Rob Marshall.",
+    "verdict": "Partially Supported",
+    "gold_is_hallucinated": true
+  },
+  {
+    "id": 299,
+    "answer_type": "right_answer",
+    "claim": "Chenango Canal",
+    "verdict": "Supported",
+    "gold_is_hallucinated": false
+  },
+  {
+    "id": 299,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Black River Canal was longer.",
+    "verdict": "Contradicted",
+    "gold_is_hallucinated": true
+  }
+]

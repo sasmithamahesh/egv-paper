@@ -1,0 +1,16 @@
+{
+  "name": "Hybrid Stage 3",
+  "total_claims": 600,
+  "precision": 0.516,
+  "recall": 0.9,
+  "f1": 0.656,
+  "abstention_rate": 6.2,
+  "supported_on_right": 270,
+  "caught_hallucinated": 253,
+  "verdict_distribution": {
+    "Supported": 281,
+    "Partially Supported": 161,
+    "Contradicted": 121,
+    "Unverifiable": 37
+  }
+}

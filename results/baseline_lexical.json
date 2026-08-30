@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 0,
+    "answer_type": "right_answer",
+    "claim": "Afrojack",
+    "verdict": "Supported"
+  },
+  {
+    "id": 0,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Take Me Home\" is a song by Bebe Rexha, produced by a Dutch DJ.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 1,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 1,
+    "answer_type": "hallucinated_answer",
+    "claim": "Roberto Bolaño was born in Japan.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 2,
+    "answer_type": "right_answer",
+    "claim": "Shatter Me",
+    "verdict": "Supported"
+  },
+  {
+    "id": 2,
+    "answer_type": "hallucinated_answer",
+    "claim": "The music video for the song \"Sun Skip\" by Lindsey Stirling received 1.3 million views on YouTube after one day.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 3,
+    "answer_type": "right_answer",
+    "claim": "1882",
+    "verdict": "Supported"
+  },
+  {
+    "id": 3,
+    "answer_type": "hallucinated_answer",
+    "claim": "The German field army who named the 1st Battle of Kharkov was born in 1885.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 4,
+    "answer_type": "right_answer",
+    "claim": "American",
+    "verdict": "Supported"
+  },
+  {
+    "id": 4,
+    "answer_type": "hallucinated_answer",
+    "claim": "Heart, the famous rock band, is American.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 5,
+    "answer_type": "right_answer",
+    "claim": "Pikotaro",
+    "verdict": "Supported"
+  },
+  {
+    "id": 5,
+    "answer_type": "hallucinated_answer",
+    "claim": "Kosaka promotes himself as Pikotaro.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 6,
+    "answer_type": "right_answer",
+    "claim": "2,416",
+    "verdict": "Supported"
+  },
+  {
+    "id": 6,
+    "answer_type": "hallucinated_answer",
+    "claim": "The population of the terminus of the Willunga railway line in 2011 was 2,415.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 7,
+    "answer_type": "right_answer",
+    "claim": "Benjamin",
+    "verdict": "Supported"
+  },
+  {
+    "id": 7,
+    "answer_type": "hallucinated_answer",
+    "claim": "Gaten Matarazzo began his career on Broadway as Gavroche.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 8,
+    "answer_type": "right_answer",
+    "claim": "Richard Ney",
+    "verdict": "Supported"
+  },
+  {
+    "id": 8,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sheldon Harnick wrote the lyrics.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 9,
+    "answer_type": "right_answer",
+    "claim": "Buffalo Sabres",
+    "verdict": "Supported"
+  },
+  {
+    "id": 9,
+    "answer_type": "hallucinated_answer",
+    "claim": "Evander Kane plays for Sabres.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 10,
+    "answer_type": "right_answer",
+    "claim": "Hermitage Castle",
+    "verdict": "Supported"
+  },
+  {
+    "id": 10,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Water passes through several castles in the border region of Scotland, including Hermitage Castle.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 11,
+    "answer_type": "right_answer",
+    "claim": "The Awakening",
+    "verdict": "Supported"
+  },
+  {
+    "id": 11,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Blood\" was actually co-written with James Cameron.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 12,
+    "answer_type": "right_answer",
+    "claim": "Firs",
+    "verdict": "Supported"
+  },
+  {
+    "id": 12,
+    "answer_type": "hallucinated_answer",
+    "claim": "Chelone has more than one species.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 13,
+    "answer_type": "right_answer",
+    "claim": "Maytenus",
+    "verdict": "Supported"
+  },
+  {
+    "id": 13,
+    "answer_type": "hallucinated_answer",
+    "claim": "Eucommia has a more widespread distribution.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 14,
+    "answer_type": "right_answer",
+    "claim": "March 16, 1981",
+    "verdict": "Supported"
+  },
+  {
+    "id": 14,
+    "answer_type": "hallucinated_answer",
+    "claim": "House Shoes produced music for Danny Brown, who was born before 2000.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 15,
+    "answer_type": "right_answer",
+    "claim": "Macalester College",
+    "verdict": "Supported"
+  },
+  {
+    "id": 15,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mel Duncan holds an undergraduate degree from Macalester College in Saint Paul, Minnesota.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 16,
+    "answer_type": "right_answer",
+    "claim": "Colonie, New York",
+    "verdict": "Supported"
+  },
+  {
+    "id": 16,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 1987 American drama film Ironweed was shot in downtown Albany, New York, featuring a large pastoral cemetery.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 17,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 17,
+    "answer_type": "hallucinated_answer",
+    "claim": "Phil Mogg and Dave Peters are both musical artists.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 18,
+    "answer_type": "right_answer",
+    "claim": "\"A Long Way Home\"",
+    "verdict": "Supported"
+  },
+  {
+    "id": 18,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Sia song \"Never Give Up\" is from the soundtrack of a film that is based on a true story.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 19,
+    "answer_type": "right_answer",
+    "claim": "Tasawwuf",
+    "verdict": "Supported"
+  },
+  {
+    "id": 19,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sayyid Hasan Husameddin founded the Ush-shaki tradition, and was also related to the Prophet Muhammad.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 20,
+    "answer_type": "right_answer",
+    "claim": "Trying Again",
+    "verdict": "Supported"
+  },
+  {
+    "id": 20,
+    "answer_type": "hallucinated_answer",
+    "claim": "Toby Williams appeared in the British comedy series, Not Trying At All.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 21,
+    "answer_type": "right_answer",
+    "claim": "John Charles Waite",
+    "verdict": "Supported"
+  },
+  {
+    "id": 21,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jacoby Shaddix is more famous.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 22,
+    "answer_type": "right_answer",
+    "claim": "Sickle-cell disease",
+    "verdict": "Supported"
+  },
+  {
+    "id": 22,
+    "answer_type": "hallucinated_answer",
+    "claim": "Hemolytic anemia with sickling disorders.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 23,
+    "answer_type": "right_answer",
+    "claim": "a wide variety of specialist weapons",
+    "verdict": "Supported"
+  },
+  {
+    "id": 23,
+    "answer_type": "hallucinated_answer",
+    "claim": "The special operations force of the Irish Defence Forces had access to the most modern weapons in the world.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 24,
+    "answer_type": "right_answer",
+    "claim": "Australia",
+    "verdict": "Supported"
+  },
+  {
+    "id": 24,
+    "answer_type": "hallucinated_answer",
+    "claim": "Peppers Manor House is located in Sutton Forest, but the New South Wales State Heritage Register is located in Sydney.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 25,
+    "answer_type": "right_answer",
+    "claim": "Atlanta Falcons",
+    "verdict": "Supported"
+  },
+  {
+    "id": 25,
+    "answer_type": "hallucinated_answer",
+    "claim": "Stephen Ambrose Sarkisian is with Atlanta.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 26,
+    "answer_type": "right_answer",
+    "claim": "American",
+    "verdict": "Supported"
+  },
+  {
+    "id": 26,
+    "answer_type": "hallucinated_answer",
+    "claim": "Patrick Brice and Creep both come from the United States.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 27,
+    "answer_type": "right_answer",
+    "claim": "Cheltenham",
+    "verdict": "Supported"
+  },
+  {
+    "id": 27,
+    "answer_type": "hallucinated_answer",
+    "claim": "One of the main British intelligence agencies is located in Cheltenham suburbs.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 28,
+    "answer_type": "right_answer",
+    "claim": "William Shakespeare",
+    "verdict": "Supported"
+  },
+  {
+    "id": 28,
+    "answer_type": "hallucinated_answer",
+    "claim": "The fairy queen Queen Mab originated from the mythological tales of ancient Ireland and England.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 29,
+    "answer_type": "right_answer",
+    "claim": "lyric soprano is a type of operatic soprano voice",
+    "verdict": "Supported"
+  },
+  {
+    "id": 29,
+    "answer_type": "hallucinated_answer",
+    "claim": "Emma Matthews was a coloratura soprano.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 30,
+    "answer_type": "right_answer",
+    "claim": "Premier League",
+    "verdict": "Supported"
+  },
+  {
+    "id": 30,
+    "answer_type": "hallucinated_answer",
+    "claim": "Daniel Nii Tackie Mensah Welbeck plays for Arsenal.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 31,
+    "answer_type": "right_answer",
+    "claim": "the River Thames",
+    "verdict": "Supported"
+  },
+  {
+    "id": 31,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Aberdeen Bestiary is located near the River Avon.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 32,
+    "answer_type": "right_answer",
+    "claim": "Robert F. Simon",
+    "verdict": "Supported"
+  },
+  {
+    "id": 32,
+    "answer_type": "hallucinated_answer",
+    "claim": "The director Richard Wilson also appeared in the film as an authority figure.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 33,
+    "answer_type": "right_answer",
+    "claim": "Jonestown",
+    "verdict": "Supported"
+  },
+  {
+    "id": 33,
+    "answer_type": "hallucinated_answer",
+    "claim": "Proud To Commit Commercial Suicide is a live album by industrial metal band Nailbomb and captures the band's only live appearance at the 1995 Dynamo Open Air Festival. This festival had no such infamous remote settlement.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 34,
+    "answer_type": "right_answer",
+    "claim": "François Girard",
+    "verdict": "Supported"
+  },
+  {
+    "id": 34,
+    "answer_type": "hallucinated_answer",
+    "claim": "The director of the film that Christoph Koncz starred in was not François Girard.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 35,
+    "answer_type": "right_answer",
+    "claim": "1994",
+    "verdict": "Supported"
+  },
+  {
+    "id": 35,
+    "answer_type": "hallucinated_answer",
+    "claim": "Decommissioning in Northern Ireland was a process included in the Belfast Agreement as part of the Northern Ireland peace process, which began after 1997.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 36,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 36,
+    "answer_type": "hallucinated_answer",
+    "claim": "Monoral is an alternative band.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 37,
+    "answer_type": "right_answer",
+    "claim": "Kanagawa Prefecture",
+    "verdict": "Supported"
+  },
+  {
+    "id": 37,
+    "answer_type": "hallucinated_answer",
+    "claim": "Shizuoka Prefecture",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 38,
+    "answer_type": "right_answer",
+    "claim": "2002",
+    "verdict": "Supported"
+  },
+  {
+    "id": 38,
+    "answer_type": "hallucinated_answer",
+    "claim": "Samsung Scholarship was established in 2003.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 39,
+    "answer_type": "right_answer",
+    "claim": "1930",
+    "verdict": "Supported"
+  },
+  {
+    "id": 39,
+    "answer_type": "hallucinated_answer",
+    "claim": "Cooper pairs were first described by a Nobel Prize laureate American physicist, without mentioning his birth year.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 40,
+    "answer_type": "right_answer",
+    "claim": "Jumong",
+    "verdict": "Supported"
+  },
+  {
+    "id": 40,
+    "answer_type": "hallucinated_answer",
+    "claim": "Winter Sonata",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 41,
+    "answer_type": "right_answer",
+    "claim": "Rupert Penry-Jones",
+    "verdict": "Supported"
+  },
+  {
+    "id": 41,
+    "answer_type": "hallucinated_answer",
+    "claim": "Lydia Leonard also starred in The Strain.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 42,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 42,
+    "answer_type": "hallucinated_answer",
+    "claim": "Hanover Hound is from Germany.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 43,
+    "answer_type": "right_answer",
+    "claim": "Medici",
+    "verdict": "Supported"
+  },
+  {
+    "id": 43,
+    "answer_type": "hallucinated_answer",
+    "claim": "Junta is designed by Reiner Knizia.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 44,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 44,
+    "answer_type": "hallucinated_answer",
+    "claim": "George Melford was an American actor, while Giuseppe Tornatore has acted in several Italian films.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 45,
+    "answer_type": "right_answer",
+    "claim": "Kazushi Sakuraba",
+    "verdict": "Supported"
+  },
+  {
+    "id": 45,
+    "answer_type": "hallucinated_answer",
+    "claim": "Shinya Aoki was the mainstay of Dream, being part of over 15 shows.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 46,
+    "answer_type": "right_answer",
+    "claim": "St Paul's Cathedral",
+    "verdict": "Supported"
+  },
+  {
+    "id": 46,
+    "answer_type": "hallucinated_answer",
+    "claim": "Norwich Cathedral is dedicated to Holy Trinity.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 47,
+    "answer_type": "right_answer",
+    "claim": "Tom Verlaine",
+    "verdict": "Supported"
+  },
+  {
+    "id": 47,
+    "answer_type": "hallucinated_answer",
+    "claim": "David Vincent is younger than Tom Verlaine.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 48,
+    "answer_type": "right_answer",
+    "claim": "Cafaro Company",
+    "verdict": "Supported"
+  },
+  {
+    "id": 48,
+    "answer_type": "hallucinated_answer",
+    "claim": "The BAM! store in Huntington Mall is owned by Old Navy.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 49,
+    "answer_type": "right_answer",
+    "claim": "June 11, 1997",
+    "verdict": "Supported"
+  },
+  {
+    "id": 49,
+    "answer_type": "hallucinated_answer",
+    "claim": "The rapper on Lil B.I.G. Pac was born in the late 1990s.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 50,
+    "answer_type": "right_answer",
+    "claim": "Valentine's Day",
+    "verdict": "Supported"
+  },
+  {
+    "id": 50,
+    "answer_type": "hallucinated_answer",
+    "claim": "The romantic film soundtrack's name is Valentine's Day.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 51,
+    "answer_type": "right_answer",
+    "claim": "1947",
+    "verdict": "Supported"
+  },
+  {
+    "id": 51,
+    "answer_type": "hallucinated_answer",
+    "claim": "There is no railroad to the north of Bates Pond.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 52,
+    "answer_type": "right_answer",
+    "claim": "Queen Margrethe II",
+    "verdict": "Supported"
+  },
+  {
+    "id": 52,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mary, Crown Princess of Denmark's mother-in-law is the Queen.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 53,
+    "answer_type": "right_answer",
+    "claim": "National Action Party",
+    "verdict": "Supported"
+  },
+  {
+    "id": 53,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mayorga Castañeda serves in a major Mexican political party.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 54,
+    "answer_type": "right_answer",
+    "claim": "rock",
+    "verdict": "Supported"
+  },
+  {
+    "id": 54,
+    "answer_type": "hallucinated_answer",
+    "claim": "Giant Drag and Chagall Guevara belong to different genres.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 55,
+    "answer_type": "right_answer",
+    "claim": "Between Shades of Gray",
+    "verdict": "Supported"
+  },
+  {
+    "id": 55,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ruta Sepetys' best-seller is \"The Gray Shade\".",
+    "verdict": "Supported"
+  },
+  {
+    "id": 56,
+    "answer_type": "right_answer",
+    "claim": "Dimension Films",
+    "verdict": "Supported"
+  },
+  {
+    "id": 56,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Weinstein Company distributed Scary Movie 5.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 57,
+    "answer_type": "right_answer",
+    "claim": "743",
+    "verdict": "Supported"
+  },
+  {
+    "id": 57,
+    "answer_type": "hallucinated_answer",
+    "claim": "The small town near Sacramento has less population than 744.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 58,
+    "answer_type": "right_answer",
+    "claim": "23 June 2013.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 58,
+    "answer_type": "hallucinated_answer",
+    "claim": "The coach of Karachi Kings was removed as coach of the Australia national cricket team in mid-2013.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 59,
+    "answer_type": "right_answer",
+    "claim": "Atlanta, Georgia",
+    "verdict": "Supported"
+  },
+  {
+    "id": 59,
+    "answer_type": "hallucinated_answer",
+    "claim": "The recently retired domed stadium in the southeastern United States, which was developed by the same authority that developed the Georgia World Congress Center, is actually located in the northern Georgia.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 60,
+    "answer_type": "right_answer",
+    "claim": "Ronald Wayne \"Ron\" Shelton",
+    "verdict": "Supported"
+  },
+  {
+    "id": 60,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ken Mora never won an Oscar, while Ron Shelton won.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 61,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 61,
+    "answer_type": "hallucinated_answer",
+    "claim": "One Hundred and One Dalmatians was a live-action film and Fun and Fancy Free was an animated one.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 62,
+    "answer_type": "right_answer",
+    "claim": "PetSmart",
+    "verdict": "Supported"
+  },
+  {
+    "id": 62,
+    "answer_type": "hallucinated_answer",
+    "claim": "The distribution center is for PetSmart and Target.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 63,
+    "answer_type": "right_answer",
+    "claim": "2009",
+    "verdict": "Supported"
+  },
+  {
+    "id": 63,
+    "answer_type": "hallucinated_answer",
+    "claim": "The water park Surfrider is in ranked first sometime in the early 2010s.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 64,
+    "answer_type": "right_answer",
+    "claim": "impressionism",
+    "verdict": "Supported"
+  },
+  {
+    "id": 64,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ricardo Viñes premiered the works of Maurice Ravel, who is associated with the romanticism style.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 65,
+    "answer_type": "right_answer",
+    "claim": "Eddie Steeples",
+    "verdict": "Supported"
+  },
+  {
+    "id": 65,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jaime Pressly is known for advertising OfficeMax.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 66,
+    "answer_type": "right_answer",
+    "claim": "E. G. Marshall",
+    "verdict": "Supported"
+  },
+  {
+    "id": 66,
+    "answer_type": "hallucinated_answer",
+    "claim": "Stefanie Powers starred in At Mother's Request.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 67,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 67,
+    "answer_type": "hallucinated_answer",
+    "claim": "Macworld is a tech website.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 68,
+    "answer_type": "right_answer",
+    "claim": "Papal States",
+    "verdict": "Supported"
+  },
+  {
+    "id": 68,
+    "answer_type": "hallucinated_answer",
+    "claim": "Francesco Rospigliosi Pallavicini was born in Rome, in what was then the Italian duchies under papal control.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 69,
+    "answer_type": "right_answer",
+    "claim": "Sweden",
+    "verdict": "Supported"
+  },
+  {
+    "id": 69,
+    "answer_type": "hallucinated_answer",
+    "claim": "Finland",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 70,
+    "answer_type": "right_answer",
+    "claim": "Francis Stokes",
+    "verdict": "Supported"
+  },
+  {
+    "id": 70,
+    "answer_type": "hallucinated_answer",
+    "claim": "Roman Karmen directed \"God, Inc.\" with Francis Stokes.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 71,
+    "answer_type": "right_answer",
+    "claim": "Chrisann Brennan",
+    "verdict": "Supported"
+  },
+  {
+    "id": 71,
+    "answer_type": "hallucinated_answer",
+    "claim": "Lisa Brennan-Jobs is the daughter of an American writer, Chrisann Brennan.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 72,
+    "answer_type": "right_answer",
+    "claim": "Penobscot Bay",
+    "verdict": "Supported"
+  },
+  {
+    "id": 72,
+    "answer_type": "hallucinated_answer",
+    "claim": "Goose Rocks Light is located in a small bay in Maine known as South Bay.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 73,
+    "answer_type": "right_answer",
+    "claim": "John \"Jack\" Roland Redman",
+    "verdict": "Supported"
+  },
+  {
+    "id": 73,
+    "answer_type": "hallucinated_answer",
+    "claim": "Chester William Nimitz.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 74,
+    "answer_type": "right_answer",
+    "claim": "board game",
+    "verdict": "Supported"
+  },
+  {
+    "id": 74,
+    "answer_type": "hallucinated_answer",
+    "claim": "Titan and Balderdash are both tabletop games.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 75,
+    "answer_type": "right_answer",
+    "claim": "Nevada",
+    "verdict": "Supported"
+  },
+  {
+    "id": 75,
+    "answer_type": "hallucinated_answer",
+    "claim": "Summer Nights took place at the Flamingo Las Vegas, located on the Las Vegas strip in the United States.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 76,
+    "answer_type": "right_answer",
+    "claim": "George Franklin Getty",
+    "verdict": "Supported"
+  },
+  {
+    "id": 76,
+    "answer_type": "hallucinated_answer",
+    "claim": "George Franklin Getty's father was a farmer.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 77,
+    "answer_type": "right_answer",
+    "claim": "Southwestern Athletic Conference",
+    "verdict": "Supported"
+  },
+  {
+    "id": 77,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Southwestern Athletic Conference does not include Alabama-based universities.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 78,
+    "answer_type": "right_answer",
+    "claim": "Pennsylvania",
+    "verdict": "Supported"
+  },
+  {
+    "id": 78,
+    "answer_type": "hallucinated_answer",
+    "claim": "Foxcatcher was set up in Illinois.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 79,
+    "answer_type": "right_answer",
+    "claim": "Australian",
+    "verdict": "Supported"
+  },
+  {
+    "id": 79,
+    "answer_type": "hallucinated_answer",
+    "claim": "As per my knowledge, the 2003 FIBA Under-19 World Championship MVP is a citizen of New Zealand.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 80,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 80,
+    "answer_type": "hallucinated_answer",
+    "claim": "Walter Pidgeon played a role in Big Red, but not in Bedtime Stories.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 81,
+    "answer_type": "right_answer",
+    "claim": "Nationalism",
+    "verdict": "Supported"
+  },
+  {
+    "id": 81,
+    "answer_type": "hallucinated_answer",
+    "claim": "The political ideology of The National Action Party was neocolonialism.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 82,
+    "answer_type": "right_answer",
+    "claim": "Northern",
+    "verdict": "Supported"
+  },
+  {
+    "id": 82,
+    "answer_type": "hallucinated_answer",
+    "claim": "The railway station in question is managed by Northern Rail.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 83,
+    "answer_type": "right_answer",
+    "claim": "Winn Mountain",
+    "verdict": "Supported"
+  },
+  {
+    "id": 83,
+    "answer_type": "hallucinated_answer",
+    "claim": "Cindy Williams is an award-winning news anchor for a tv station whose transmitter is located on Sebago Mountain.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 84,
+    "answer_type": "right_answer",
+    "claim": "Brothers Grimm",
+    "verdict": "Supported"
+  },
+  {
+    "id": 84,
+    "answer_type": "hallucinated_answer",
+    "claim": "Snow White is based on a German fairy tale by Hans Christian Andersen.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 85,
+    "answer_type": "right_answer",
+    "claim": "$8.6 billion",
+    "verdict": "Supported"
+  },
+  {
+    "id": 85,
+    "answer_type": "hallucinated_answer",
+    "claim": "Caesars Entertainment Corporation earned billions annually.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 86,
+    "answer_type": "right_answer",
+    "claim": "Alvin and the Chipmunks",
+    "verdict": "Supported"
+  },
+  {
+    "id": 86,
+    "answer_type": "hallucinated_answer",
+    "claim": "The American musical group that created \"Alvin for President\" is The Chipmunks.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 87,
+    "answer_type": "right_answer",
+    "claim": "Mahek Chahal",
+    "verdict": "Supported"
+  },
+  {
+    "id": 87,
+    "answer_type": "hallucinated_answer",
+    "claim": "Neetho starred a Norwegian actress.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 88,
+    "answer_type": "right_answer",
+    "claim": "Queen Elizabeth\"-class battleships",
+    "verdict": "Supported"
+  },
+  {
+    "id": 88,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Royal Navy Battleships used in WWI and WWII were \"Iron Duke\"-class battleships.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 89,
+    "answer_type": "right_answer",
+    "claim": "Douglas SBD Dauntless",
+    "verdict": "Supported"
+  },
+  {
+    "id": 89,
+    "answer_type": "hallucinated_answer",
+    "claim": "Tama Maru No. 2 was damaged by a Douglas F6F Hellcat.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 90,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 90,
+    "answer_type": "hallucinated_answer",
+    "claim": "Connie May Fowler and Vladimir Mayakovsky were both poets, but they had very different styles.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 91,
+    "answer_type": "right_answer",
+    "claim": "278 individuals",
+    "verdict": "Supported"
+  },
+  {
+    "id": 91,
+    "answer_type": "hallucinated_answer",
+    "claim": "The death toll for the Brooklyn Theatre fire is estimated to be around 300.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 92,
+    "answer_type": "right_answer",
+    "claim": "Big Ten",
+    "verdict": "Supported"
+  },
+  {
+    "id": 92,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jack Moore played collegiately at Nebraska, but his team was not in the Big Ten Conference.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 93,
+    "answer_type": "right_answer",
+    "claim": "American",
+    "verdict": "Supported"
+  },
+  {
+    "id": 93,
+    "answer_type": "hallucinated_answer",
+    "claim": "Gene Kelly was actually Irish.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 94,
+    "answer_type": "right_answer",
+    "claim": "\"Hansel and Gretel\"",
+    "verdict": "Supported"
+  },
+  {
+    "id": 94,
+    "answer_type": "hallucinated_answer",
+    "claim": "Der Bärenhäuter was influenced by Engelbert Humperdinck.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 95,
+    "answer_type": "right_answer",
+    "claim": "Ray Comfort",
+    "verdict": "Supported"
+  },
+  {
+    "id": 95,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Crocoduck was Kirk Cameron's idea.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 96,
+    "answer_type": "right_answer",
+    "claim": "British",
+    "verdict": "Supported"
+  },
+  {
+    "id": 96,
+    "answer_type": "hallucinated_answer",
+    "claim": "The racer who finished second in the 1964 French Grand Prix was Scottish.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 97,
+    "answer_type": "right_answer",
+    "claim": "André Kuipers",
+    "verdict": "Supported"
+  },
+  {
+    "id": 97,
+    "answer_type": "hallucinated_answer",
+    "claim": "Philippe Perrin is older.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 98,
+    "answer_type": "right_answer",
+    "claim": "three",
+    "verdict": "Supported"
+  },
+  {
+    "id": 98,
+    "answer_type": "hallucinated_answer",
+    "claim": "Michael Edward Curry served as head coach for an American Professional basketball team that has won four NBA Championships.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 99,
+    "answer_type": "right_answer",
+    "claim": "Donny Hathaway",
+    "verdict": "Supported"
+  },
+  {
+    "id": 99,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"The Closer I Get to You\" is a romantic ballad performed by African American Roberta Flack and an Atlantic Records singer.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 100,
+    "answer_type": "right_answer",
+    "claim": "Penobscot Bay",
+    "verdict": "Supported"
+  },
+  {
+    "id": 100,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Gooden Grant House is located in the Atlantic Ocean near Maine.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 101,
+    "answer_type": "right_answer",
+    "claim": "the Troubles",
+    "verdict": "Supported"
+  },
+  {
+    "id": 101,
+    "answer_type": "hallucinated_answer",
+    "claim": "The author's non-fiction books are about terrorism.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 102,
+    "answer_type": "right_answer",
+    "claim": "American",
+    "verdict": "Supported"
+  },
+  {
+    "id": 102,
+    "answer_type": "hallucinated_answer",
+    "claim": "Squirrel Nut Zippers and Sponge have no common country of origin.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 103,
+    "answer_type": "right_answer",
+    "claim": "Wyomissing",
+    "verdict": "Supported"
+  },
+  {
+    "id": 103,
+    "answer_type": "hallucinated_answer",
+    "claim": "Hollywood Casino is owned by Penn National Gaming headquartered in Bethlehem, Pennsylvania.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 104,
+    "answer_type": "right_answer",
+    "claim": "1965",
+    "verdict": "Supported"
+  },
+  {
+    "id": 104,
+    "answer_type": "hallucinated_answer",
+    "claim": "Before directing \"One, Two, Many\", Michael DeLorenzo was born in 1965.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 105,
+    "answer_type": "right_answer",
+    "claim": "the science of thermodynamics",
+    "verdict": "Supported"
+  },
+  {
+    "id": 105,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Clausius–Clapeyron relation was named after a French chemist and mathematician considered a founding father of quantum physics.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 106,
+    "answer_type": "right_answer",
+    "claim": "October 1960",
+    "verdict": "Supported"
+  },
+  {
+    "id": 106,
+    "answer_type": "hallucinated_answer",
+    "claim": "Elvis Presley's \"G.I. Blues\" which was released for the motion picture \"G.I. Blues\"'s soundtrack was released in September 1962.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 107,
+    "answer_type": "right_answer",
+    "claim": "Deutsche Post DHL",
+    "verdict": "Supported"
+  },
+  {
+    "id": 107,
+    "answer_type": "hallucinated_answer",
+    "claim": "AeroLogic is a partnership between Lufthansa and Amazon.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 108,
+    "answer_type": "right_answer",
+    "claim": "Pierre Gasly",
+    "verdict": "Supported"
+  },
+  {
+    "id": 108,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 2017 Toro Rosso STR12 was driven by a Japanese racing driver named Yuki Tsunoda.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 109,
+    "answer_type": "right_answer",
+    "claim": "2004",
+    "verdict": "Supported"
+  },
+  {
+    "id": 109,
+    "answer_type": "hallucinated_answer",
+    "claim": "Panic! at the Disco was formed in 2005.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 110,
+    "answer_type": "right_answer",
+    "claim": "Help!",
+    "verdict": "Supported"
+  },
+  {
+    "id": 110,
+    "answer_type": "hallucinated_answer",
+    "claim": "The music program \"Yesterday\" was actually named after a song from the album \"Rubber Soul.\"",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 111,
+    "answer_type": "right_answer",
+    "claim": "The Appalachian Mountains",
+    "verdict": "Supported"
+  },
+  {
+    "id": 111,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Trenton Prong is a section of the Piedmont province of Antarctica that was formed roughly 480 million years ago.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 112,
+    "answer_type": "right_answer",
+    "claim": "Transformers",
+    "verdict": "Supported"
+  },
+  {
+    "id": 112,
+    "answer_type": "hallucinated_answer",
+    "claim": "Megan Fox's debut was in the 2007 American teen musical comedy film Confessions of a Teenage Drama Queen and she later went on to co-star in Transformers.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 113,
+    "answer_type": "right_answer",
+    "claim": "Serj Tankian",
+    "verdict": "Supported"
+  },
+  {
+    "id": 113,
+    "answer_type": "hallucinated_answer",
+    "claim": "Serj Tankian is a poet and musician in the band System of a Down.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 114,
+    "answer_type": "right_answer",
+    "claim": "2014",
+    "verdict": "Supported"
+  },
+  {
+    "id": 114,
+    "answer_type": "hallucinated_answer",
+    "claim": "The lead actor in Heartsounds died in 2014.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 115,
+    "answer_type": "right_answer",
+    "claim": "professional ballet dancer",
+    "verdict": "Supported"
+  },
+  {
+    "id": 115,
+    "answer_type": "hallucinated_answer",
+    "claim": "Dean McCarthy played a boy becoming a tap dancer in an adaptation of Billy Elliot.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 116,
+    "answer_type": "right_answer",
+    "claim": "Lewis Cass",
+    "verdict": "Supported"
+  },
+  {
+    "id": 116,
+    "answer_type": "hallucinated_answer",
+    "claim": "James Buchanan was passed over for Franklin Pierce.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 117,
+    "answer_type": "right_answer",
+    "claim": "American black bear",
+    "verdict": "Supported"
+  },
+  {
+    "id": 117,
+    "answer_type": "hallucinated_answer",
+    "claim": "Grizzly bear can be seen in Harriman State Park.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 118,
+    "answer_type": "right_answer",
+    "claim": "Walt Disney",
+    "verdict": "Supported"
+  },
+  {
+    "id": 118,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Barefoot Executive and The Last Flight of Noah's Ark were produced by different companies.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 119,
+    "answer_type": "right_answer",
+    "claim": "Hillary Rodham Clinton",
+    "verdict": "Supported"
+  },
+  {
+    "id": 119,
+    "answer_type": "hallucinated_answer",
+    "claim": "The first female senator of New York served two terms representing New York in the United States Senate.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 120,
+    "answer_type": "right_answer",
+    "claim": "934,243",
+    "verdict": "Supported"
+  },
+  {
+    "id": 120,
+    "answer_type": "hallucinated_answer",
+    "claim": "The population of the city near Trim is 874,243.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 121,
+    "answer_type": "right_answer",
+    "claim": "1948 and 1964",
+    "verdict": "Supported"
+  },
+  {
+    "id": 121,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mark Lazarus clashed with the manager of Wolverhampton Wanderers during the years of 1950 and 1960.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 122,
+    "answer_type": "right_answer",
+    "claim": "Lahti, Finland",
+    "verdict": "Supported"
+  },
+  {
+    "id": 122,
+    "answer_type": "hallucinated_answer",
+    "claim": "The World Games was never held in Lahti.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 123,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 123,
+    "answer_type": "hallucinated_answer",
+    "claim": "Yes, both are monthly magazines.",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 124,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 124,
+    "answer_type": "hallucinated_answer",
+    "claim": "No, Lucie Šafářová is a Czech professional tennis player, while Pavel Složil is a Czech amateur tennis player.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 125,
+    "answer_type": "right_answer",
+    "claim": "I Am Legend",
+    "verdict": "Supported"
+  },
+  {
+    "id": 125,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Hunger Games.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 126,
+    "answer_type": "right_answer",
+    "claim": "Judy Loe",
+    "verdict": "Supported"
+  },
+  {
+    "id": 126,
+    "answer_type": "hallucinated_answer",
+    "claim": "The actress who starred in Space Island One is married to Roy Battersby, is Judy Loe.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 127,
+    "answer_type": "right_answer",
+    "claim": "Martha Coolidge",
+    "verdict": "Supported"
+  },
+  {
+    "id": 127,
+    "answer_type": "hallucinated_answer",
+    "claim": "Martha Coolidge directed a comedy.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 128,
+    "answer_type": "right_answer",
+    "claim": "$145,000",
+    "verdict": "Supported"
+  },
+  {
+    "id": 128,
+    "answer_type": "hallucinated_answer",
+    "claim": "The owner donated $154,000.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 129,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 129,
+    "answer_type": "hallucinated_answer",
+    "claim": "No, William Faulkner was from Mississippi.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 130,
+    "answer_type": "right_answer",
+    "claim": "one of the nine Census Bureau Divisions",
+    "verdict": "Supported"
+  },
+  {
+    "id": 130,
+    "answer_type": "hallucinated_answer",
+    "claim": "Kentucky is located in the southern region.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 131,
+    "answer_type": "right_answer",
+    "claim": "New York City",
+    "verdict": "Supported"
+  },
+  {
+    "id": 131,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Spiral and 270 Park Avenue are located in Boston.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 132,
+    "answer_type": "right_answer",
+    "claim": "Washington, D.C.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 132,
+    "answer_type": "hallucinated_answer",
+    "claim": "George Washington University Hospital and Psychiatric Institute of Washington are two different hospitals located in different cities.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 133,
+    "answer_type": "right_answer",
+    "claim": "magazine",
+    "verdict": "Supported"
+  },
+  {
+    "id": 133,
+    "answer_type": "hallucinated_answer",
+    "claim": "Grazia and JJ are both lifestyle periodicals.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 134,
+    "answer_type": "right_answer",
+    "claim": "producer",
+    "verdict": "Supported"
+  },
+  {
+    "id": 134,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jeremy Theobald and Christopher Nolan are both film makers.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 135,
+    "answer_type": "right_answer",
+    "claim": "24 January 1953",
+    "verdict": "Supported"
+  },
+  {
+    "id": 135,
+    "answer_type": "hallucinated_answer",
+    "claim": "The president of South Korea was born on January 24th.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 136,
+    "answer_type": "right_answer",
+    "claim": "St. Louis Blues",
+    "verdict": "Supported"
+  },
+  {
+    "id": 136,
+    "answer_type": "hallucinated_answer",
+    "claim": "Lars Eller was actually drafted by the Toronto Maple Leafs.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 137,
+    "answer_type": "right_answer",
+    "claim": "Sex and the City",
+    "verdict": "Supported"
+  },
+  {
+    "id": 137,
+    "answer_type": "hallucinated_answer",
+    "claim": "Cynthia Nixon received her awards for her performance in \"Modern Family.\"",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 138,
+    "answer_type": "right_answer",
+    "claim": "Gong Yoo",
+    "verdict": "Supported"
+  },
+  {
+    "id": 138,
+    "answer_type": "hallucinated_answer",
+    "claim": "The actor's stage name in the 2016 film \"Train to Busan\" with Jung Yu-mi and Ma Dong-seok is Gong Yu.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 139,
+    "answer_type": "right_answer",
+    "claim": "New Jersey",
+    "verdict": "Supported"
+  },
+  {
+    "id": 139,
+    "answer_type": "hallucinated_answer",
+    "claim": "Frank Lautenberg was from New York.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 140,
+    "answer_type": "right_answer",
+    "claim": "Bazooka",
+    "verdict": "Supported"
+  },
+  {
+    "id": 140,
+    "answer_type": "hallucinated_answer",
+    "claim": "Colonel Skinner developed a stove.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 141,
+    "answer_type": "right_answer",
+    "claim": "41",
+    "verdict": "Supported"
+  },
+  {
+    "id": 141,
+    "answer_type": "hallucinated_answer",
+    "claim": "Lars Kristinus Larsen founded Jysk, a retail chain that operates in over 50 countries.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 142,
+    "answer_type": "right_answer",
+    "claim": "London, England",
+    "verdict": "Supported"
+  },
+  {
+    "id": 142,
+    "answer_type": "hallucinated_answer",
+    "claim": "The headquarters of Diageo is in Manchester, England.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 143,
+    "answer_type": "right_answer",
+    "claim": "1755",
+    "verdict": "Supported"
+  },
+  {
+    "id": 143,
+    "answer_type": "hallucinated_answer",
+    "claim": "Marie Antoinette was born in 1755.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 144,
+    "answer_type": "right_answer",
+    "claim": "San Francisco, California",
+    "verdict": "Supported"
+  },
+  {
+    "id": 144,
+    "answer_type": "hallucinated_answer",
+    "claim": "The band of \"Brujo\" came from Los Angeles.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 145,
+    "answer_type": "right_answer",
+    "claim": "Travel Channel",
+    "verdict": "Supported"
+  },
+  {
+    "id": 145,
+    "answer_type": "hallucinated_answer",
+    "claim": "The show \"Vegas Stripped\" was aired on Oxygen Channel.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 146,
+    "answer_type": "right_answer",
+    "claim": "Gotham",
+    "verdict": "Supported"
+  },
+  {
+    "id": 146,
+    "answer_type": "hallucinated_answer",
+    "claim": "Batman Begins has a spin-off TV series called Gotham.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 147,
+    "answer_type": "right_answer",
+    "claim": "Daytona Beach, Florida",
+    "verdict": "Supported"
+  },
+  {
+    "id": 147,
+    "answer_type": "hallucinated_answer",
+    "claim": "Cancun, Mexico was a site for Jeopardy! Collect Championship contestant searches.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 148,
+    "answer_type": "right_answer",
+    "claim": "Real Madrid and FC Barcelona",
+    "verdict": "Supported"
+  },
+  {
+    "id": 148,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 2011 Copa del Rey was a specific type of rivalry between Southern Hemisphere and Northern Hemisphere teams.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 149,
+    "answer_type": "right_answer",
+    "claim": "You Spin Me Round (Like a Record)",
+    "verdict": "Supported"
+  },
+  {
+    "id": 149,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"You Spin Me Round (Like a Record)\" was actually not the first UK number-one hit by the Stock Aitken Waterman production trio. Their first UK number-one hit was \"Respectable\" by Mel and Kim.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 150,
+    "answer_type": "right_answer",
+    "claim": "6.213 km long",
+    "verdict": "Supported"
+  },
+  {
+    "id": 150,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Mount Panorama Circuit track is longer than 7 km.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 151,
+    "answer_type": "right_answer",
+    "claim": "31st Disney animated feature",
+    "verdict": "Supported"
+  },
+  {
+    "id": 151,
+    "answer_type": "hallucinated_answer",
+    "claim": "The American animation studio founded by Terry and Sue Shakespeare with David Molina in 1989 was the main animation studio for the film.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 152,
+    "answer_type": "right_answer",
+    "claim": "One Love",
+    "verdict": "Supported"
+  },
+  {
+    "id": 152,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"When Love Takes Over\".",
+    "verdict": "Supported"
+  },
+  {
+    "id": 153,
+    "answer_type": "right_answer",
+    "claim": "San Rafael, California",
+    "verdict": "Supported"
+  },
+  {
+    "id": 153,
+    "answer_type": "hallucinated_answer",
+    "claim": "The bassist of the band who released Voivod was originally in a band based in San Francisco.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 154,
+    "answer_type": "right_answer",
+    "claim": "Love/Hate",
+    "verdict": "Supported"
+  },
+  {
+    "id": 154,
+    "answer_type": "hallucinated_answer",
+    "claim": "Simone Kirby was not in any Irish dramatic television series that aired between 2010 and 2014 on RTÉ Television.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 155,
+    "answer_type": "right_answer",
+    "claim": "Cardiospermum",
+    "verdict": "Supported"
+  },
+  {
+    "id": 155,
+    "answer_type": "hallucinated_answer",
+    "claim": "Chestnut has more species than Cardiospermum.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 156,
+    "answer_type": "right_answer",
+    "claim": "Niagara Falls Flyers",
+    "verdict": "Supported"
+  },
+  {
+    "id": 156,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 1965 Memorial Cup final was won by the Edmonton Oil Kings of Western Canada.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 157,
+    "answer_type": "right_answer",
+    "claim": "2007",
+    "verdict": "Supported"
+  },
+  {
+    "id": 157,
+    "answer_type": "hallucinated_answer",
+    "claim": "Florentijn Hofman created the largest rubber duck sculpture in 2008.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 158,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 158,
+    "answer_type": "hallucinated_answer",
+    "claim": "Thunbergia and Teucrium are both part of the same family.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 159,
+    "answer_type": "right_answer",
+    "claim": "September, 52 BC",
+    "verdict": "Supported"
+  },
+  {
+    "id": 159,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Battle of Alesia took place during the early stages of the Roman Empire.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 160,
+    "answer_type": "right_answer",
+    "claim": "Liverpool Football Club",
+    "verdict": "Supported"
+  },
+  {
+    "id": 160,
+    "answer_type": "hallucinated_answer",
+    "claim": "John Carlin did not play for a Premier League team in 1902.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 161,
+    "answer_type": "right_answer",
+    "claim": "1972–73 NBA season",
+    "verdict": "Supported"
+  },
+  {
+    "id": 161,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Rockets acquired Hayes from Washington.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 162,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 162,
+    "answer_type": "hallucinated_answer",
+    "claim": "Yes, both documentaries were directed by Johannes Grenzfurthner.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 163,
+    "answer_type": "right_answer",
+    "claim": "eight",
+    "verdict": "Supported"
+  },
+  {
+    "id": 163,
+    "answer_type": "hallucinated_answer",
+    "claim": "Nine episodes.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 164,
+    "answer_type": "right_answer",
+    "claim": "Trafford Park",
+    "verdict": "Supported"
+  },
+  {
+    "id": 164,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ernest Terah Hooley bought Trafford Park.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 165,
+    "answer_type": "right_answer",
+    "claim": "Twin Peaks",
+    "verdict": "Supported"
+  },
+  {
+    "id": 165,
+    "answer_type": "hallucinated_answer",
+    "claim": "The actor played General Hammond in Lost.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 166,
+    "answer_type": "right_answer",
+    "claim": "racing",
+    "verdict": "Supported"
+  },
+  {
+    "id": 166,
+    "answer_type": "hallucinated_answer",
+    "claim": "United Autosports and Zak Brown are both involved in motorsports.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 167,
+    "answer_type": "right_answer",
+    "claim": "Lanoxin",
+    "verdict": "Supported"
+  },
+  {
+    "id": 167,
+    "answer_type": "hallucinated_answer",
+    "claim": "Turbidimetric inhibition immunoassay is used in many commercial immunoassays, including several medications.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 168,
+    "answer_type": "right_answer",
+    "claim": "English",
+    "verdict": "Supported"
+  },
+  {
+    "id": 168,
+    "answer_type": "hallucinated_answer",
+    "claim": "Siouxsie Sioux is actually Welsh.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 169,
+    "answer_type": "right_answer",
+    "claim": "2001",
+    "verdict": "Supported"
+  },
+  {
+    "id": 169,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Woh Ladki Hai Kahan\" was released in 2000.",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 170,
+    "answer_type": "right_answer",
+    "claim": "Jack Bender",
+    "verdict": "Supported"
+  },
+  {
+    "id": 170,
+    "answer_type": "hallucinated_answer",
+    "claim": "Bride of Chucky is actually a sequel to a movie directed by Wes Craven.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 171,
+    "answer_type": "right_answer",
+    "claim": "\"Crenshaw\"",
+    "verdict": "Supported"
+  },
+  {
+    "id": 171,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jay-Z bought 100 copies of Nipsey Hussle's \"most popular\" mixtape.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 172,
+    "answer_type": "right_answer",
+    "claim": "Jessica Biel",
+    "verdict": "Supported"
+  },
+  {
+    "id": 172,
+    "answer_type": "hallucinated_answer",
+    "claim": "The lead actress of the 2015 American drama film \"Bleeding Heart\" was also born in 1982.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 173,
+    "answer_type": "right_answer",
+    "claim": "Berton Averre and Doug Fieger",
+    "verdict": "Supported"
+  },
+  {
+    "id": 173,
+    "answer_type": "hallucinated_answer",
+    "claim": "The song which was ahead of \"After the Love Has Gone\" on the Billboard Hot 100 singles chart was written by two musicians.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 174,
+    "answer_type": "right_answer",
+    "claim": "Wayne Kramer",
+    "verdict": "Supported"
+  },
+  {
+    "id": 174,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Album Sin was produced by an unknown producer.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 175,
+    "answer_type": "right_answer",
+    "claim": "20%",
+    "verdict": "Supported"
+  },
+  {
+    "id": 175,
+    "answer_type": "hallucinated_answer",
+    "claim": "Only a small percentage.",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 176,
+    "answer_type": "right_answer",
+    "claim": "human sacrifice",
+    "verdict": "Supported"
+  },
+  {
+    "id": 176,
+    "answer_type": "hallucinated_answer",
+    "claim": "The cultural trait of worshipping deities was shared among the pre-Columbian Aztec civilization, Maya, Zapotec, and Nicarao.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 177,
+    "answer_type": "right_answer",
+    "claim": "Disney",
+    "verdict": "Supported"
+  },
+  {
+    "id": 177,
+    "answer_type": "hallucinated_answer",
+    "claim": "Roshon Fegan and Camp Rock are associated with Nickelodeon.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 178,
+    "answer_type": "right_answer",
+    "claim": "Jewel",
+    "verdict": "Supported"
+  },
+  {
+    "id": 178,
+    "answer_type": "hallucinated_answer",
+    "claim": "Taylor Swift has released the lead song for the 2010 romantic comedy \"Valentine's Day\".",
+    "verdict": "Supported"
+  },
+  {
+    "id": 179,
+    "answer_type": "right_answer",
+    "claim": "John Freshwater",
+    "verdict": "Supported"
+  },
+  {
+    "id": 179,
+    "answer_type": "hallucinated_answer",
+    "claim": "The former science teacher was fired for advocating his religious beliefs.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 180,
+    "answer_type": "right_answer",
+    "claim": "U.S. Century Bank Arena",
+    "verdict": "Supported"
+  },
+  {
+    "id": 180,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Panthers played at Golden Gopher Arena.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 181,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 181,
+    "answer_type": "hallucinated_answer",
+    "claim": "Yes, both were written by French composers.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 182,
+    "answer_type": "right_answer",
+    "claim": "9,818",
+    "verdict": "Supported"
+  },
+  {
+    "id": 182,
+    "answer_type": "hallucinated_answer",
+    "claim": "The population is 8,000 in 2010.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 183,
+    "answer_type": "right_answer",
+    "claim": "October 17, 1972",
+    "verdict": "Supported"
+  },
+  {
+    "id": 183,
+    "answer_type": "hallucinated_answer",
+    "claim": "The creator of the series was born on an unknown day in October, 1972.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 184,
+    "answer_type": "right_answer",
+    "claim": "Manute Bol",
+    "verdict": "Supported"
+  },
+  {
+    "id": 184,
+    "answer_type": "hallucinated_answer",
+    "claim": "The USBL Basketball player with a name meaning \"Special blessing\" is Robert Rose.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 185,
+    "answer_type": "right_answer",
+    "claim": "Cupertino, California",
+    "verdict": "Supported"
+  },
+  {
+    "id": 185,
+    "answer_type": "hallucinated_answer",
+    "claim": "The headquarters of the designer of Apple Bandai Pippin is in San Francisco, California.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 186,
+    "answer_type": "right_answer",
+    "claim": "Betty White",
+    "verdict": "Supported"
+  },
+  {
+    "id": 186,
+    "answer_type": "hallucinated_answer",
+    "claim": "Rue McClanahan had the opportunity to reunite with Estelle Getty in Ladies Man.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 187,
+    "answer_type": "right_answer",
+    "claim": "born 14 November 1964",
+    "verdict": "Supported"
+  },
+  {
+    "id": 187,
+    "answer_type": "hallucinated_answer",
+    "claim": "Katty Kay was born in November.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 188,
+    "answer_type": "right_answer",
+    "claim": "aircraft of any sort",
+    "verdict": "Supported"
+  },
+  {
+    "id": 188,
+    "answer_type": "hallucinated_answer",
+    "claim": "Félix du Temple de la Croix is credited with the development of the first successful bird-like flying machines.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 189,
+    "answer_type": "right_answer",
+    "claim": "Sunbeam Television",
+    "verdict": "Supported"
+  },
+  {
+    "id": 189,
+    "answer_type": "hallucinated_answer",
+    "claim": "Boston Broadcasting Corporation.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 190,
+    "answer_type": "right_answer",
+    "claim": "DreamWorks Animation",
+    "verdict": "Supported"
+  },
+  {
+    "id": 190,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Puss in Boots: The Three Diablos\" sequel producer: Pixar.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 191,
+    "answer_type": "right_answer",
+    "claim": "25 May",
+    "verdict": "Supported"
+  },
+  {
+    "id": 191,
+    "answer_type": "hallucinated_answer",
+    "claim": "The German–Finnish driver won The 2014 Monaco Grand Prix on a sunny day in May.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 192,
+    "answer_type": "right_answer",
+    "claim": "Abraham Lincoln",
+    "verdict": "Supported"
+  },
+  {
+    "id": 192,
+    "answer_type": "hallucinated_answer",
+    "claim": "John Surratt was suspected in involvement of the assassination of John F. Kennedy in April 1965.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 193,
+    "answer_type": "right_answer",
+    "claim": "Steven Lee Lukather",
+    "verdict": "Supported"
+  },
+  {
+    "id": 193,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mark Rankin recorded more tracks.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 194,
+    "answer_type": "right_answer",
+    "claim": "Architectural Digest",
+    "verdict": "Supported"
+  },
+  {
+    "id": 194,
+    "answer_type": "hallucinated_answer",
+    "claim": "Human Rights Quarterly came out first.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 195,
+    "answer_type": "right_answer",
+    "claim": "U.S. Virgin Islands",
+    "verdict": "Supported"
+  },
+  {
+    "id": 195,
+    "answer_type": "hallucinated_answer",
+    "claim": "Julius Jackson is the son of the boxer from the Caribbean.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 196,
+    "answer_type": "right_answer",
+    "claim": "Roger Christian",
+    "verdict": "Supported"
+  },
+  {
+    "id": 196,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jake David Shapiro was best known for being the screenwriter of a film directed by Steven Spielberg.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 197,
+    "answer_type": "right_answer",
+    "claim": "Johnson & Johnson",
+    "verdict": "Supported"
+  },
+  {
+    "id": 197,
+    "answer_type": "hallucinated_answer",
+    "claim": "Amritt Ventures does not have a notable client in the medical device, pharmaceutical and consumer packaged goods manufacturing industry.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 198,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 198,
+    "answer_type": "hallucinated_answer",
+    "claim": "Yes, The Mosuo Sisters and Quantum Hoops were released in the same year.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 199,
+    "answer_type": "right_answer",
+    "claim": "San Jose Sharks",
+    "verdict": "Supported"
+  },
+  {
+    "id": 199,
+    "answer_type": "hallucinated_answer",
+    "claim": "Jannik Hansen was never part of the Portland Winterhawks.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 200,
+    "answer_type": "right_answer",
+    "claim": "the Bee Gees",
+    "verdict": "Supported"
+  },
+  {
+    "id": 200,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Walls Have Eyes was produced by a member of Gibb family.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 201,
+    "answer_type": "right_answer",
+    "claim": "Pro Wrestling Fujiwara Group",
+    "verdict": "Supported"
+  },
+  {
+    "id": 201,
+    "answer_type": "hallucinated_answer",
+    "claim": "Minoru Suzuki was a founding member of Pro Wrestling Fujiwara Group, one of the most popular wrestling promotions based in Tokyo.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 202,
+    "answer_type": "right_answer",
+    "claim": "Jon Sensbach",
+    "verdict": "Supported"
+  },
+  {
+    "id": 202,
+    "answer_type": "hallucinated_answer",
+    "claim": "Dana Robert graduated from the University of Florida.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 203,
+    "answer_type": "right_answer",
+    "claim": "24,841",
+    "verdict": "Supported"
+  },
+  {
+    "id": 203,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sarah Beth James's hometown population is 30,000.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 204,
+    "answer_type": "right_answer",
+    "claim": "MS-13",
+    "verdict": "Supported"
+  },
+  {
+    "id": 204,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Mexican Mafia gang that originated in Los Angeles, California, US in the 1980s is not Sureños, including MS-13.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 205,
+    "answer_type": "right_answer",
+    "claim": "Robert Erskine Childers",
+    "verdict": "Supported"
+  },
+  {
+    "id": 205,
+    "answer_type": "hallucinated_answer",
+    "claim": "Actually, both Mervyn Peake and Robert Erskine Childers wrote \"The Riddle of the Sands\".",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 206,
+    "answer_type": "right_answer",
+    "claim": "Charles, Prince of Wales",
+    "verdict": "Supported"
+  },
+  {
+    "id": 206,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sophia of Hanover named glacier.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 207,
+    "answer_type": "right_answer",
+    "claim": "HK$ 100 million",
+    "verdict": "Supported"
+  },
+  {
+    "id": 207,
+    "answer_type": "hallucinated_answer",
+    "claim": "HK$ 20 million",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 208,
+    "answer_type": "right_answer",
+    "claim": "Aspiro AB",
+    "verdict": "Supported"
+  },
+  {
+    "id": 208,
+    "answer_type": "hallucinated_answer",
+    "claim": "Only select Tidal users can access Die with you's footage, unknown which company maintains it.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 209,
+    "answer_type": "right_answer",
+    "claim": "Cosmopolitan",
+    "verdict": "Supported"
+  },
+  {
+    "id": 209,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Progressive was founded first.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 210,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 210,
+    "answer_type": "hallucinated_answer",
+    "claim": "Károly Makk and Marco Bellocchio are both involved in the film industry.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 211,
+    "answer_type": "right_answer",
+    "claim": "north",
+    "verdict": "Supported"
+  },
+  {
+    "id": 211,
+    "answer_type": "hallucinated_answer",
+    "claim": "south",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 212,
+    "answer_type": "right_answer",
+    "claim": "Adriana Lima",
+    "verdict": "Supported"
+  },
+  {
+    "id": 212,
+    "answer_type": "hallucinated_answer",
+    "claim": "Miranda Kerr was absent in the 2009 show.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 213,
+    "answer_type": "right_answer",
+    "claim": "yes",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 213,
+    "answer_type": "hallucinated_answer",
+    "claim": "A Goofy Movie and Ride a Wild Pony were produced by affiliated companies.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 214,
+    "answer_type": "right_answer",
+    "claim": "San Antonio",
+    "verdict": "Supported"
+  },
+  {
+    "id": 214,
+    "answer_type": "hallucinated_answer",
+    "claim": "Howl-O-Scream is an annual event at SeaWorld San Antonio, which is located in the Texas district.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 215,
+    "answer_type": "right_answer",
+    "claim": "James Aaron Diamond",
+    "verdict": "Supported"
+  },
+  {
+    "id": 215,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ontronik Khachaturian was born first.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 216,
+    "answer_type": "right_answer",
+    "claim": "Broad Foundation",
+    "verdict": "Supported"
+  },
+  {
+    "id": 216,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Biden Foundation",
+    "verdict": "Supported"
+  },
+  {
+    "id": 217,
+    "answer_type": "right_answer",
+    "claim": "Chief Mouser to the Cabinet Office",
+    "verdict": "Supported"
+  },
+  {
+    "id": 217,
+    "answer_type": "hallucinated_answer",
+    "claim": "The official name for Larry, the 10 Downing Street cat, is \"Cat Chancellor\".",
+    "verdict": "Supported"
+  },
+  {
+    "id": 218,
+    "answer_type": "right_answer",
+    "claim": "June 7, 2017",
+    "verdict": "Supported"
+  },
+  {
+    "id": 218,
+    "answer_type": "hallucinated_answer",
+    "claim": "Bob Stoops retired in 2017.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 219,
+    "answer_type": "right_answer",
+    "claim": "Karl Ferdinand Braun",
+    "verdict": "Supported"
+  },
+  {
+    "id": 219,
+    "answer_type": "hallucinated_answer",
+    "claim": "Le Chatelier's principle is sometimes named after German inventor Braun.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 220,
+    "answer_type": "right_answer",
+    "claim": "Alexa Vega",
+    "verdict": "Supported"
+  },
+  {
+    "id": 220,
+    "answer_type": "hallucinated_answer",
+    "claim": "Robbie Amell, the Canadian actor in The Hunters, starred opposite Alexa Vega.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 221,
+    "answer_type": "right_answer",
+    "claim": "Harry S. Truman",
+    "verdict": "Supported"
+  },
+  {
+    "id": 221,
+    "answer_type": "hallucinated_answer",
+    "claim": "David Frederick Wallace was the brother of a First Lady who was married to Franklin D. Roosevelt.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 222,
+    "answer_type": "right_answer",
+    "claim": "Los Angeles",
+    "verdict": "Supported"
+  },
+  {
+    "id": 222,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Bangles covered the song in Santa Monica.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 223,
+    "answer_type": "right_answer",
+    "claim": "1958",
+    "verdict": "Supported"
+  },
+  {
+    "id": 223,
+    "answer_type": "hallucinated_answer",
+    "claim": "Todd Fisher was born after Carrie.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 224,
+    "answer_type": "right_answer",
+    "claim": "January 28, 1940",
+    "verdict": "Supported"
+  },
+  {
+    "id": 224,
+    "answer_type": "hallucinated_answer",
+    "claim": "Fernando Romero's billionaire father-in-law was born on a summer morning.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 225,
+    "answer_type": "right_answer",
+    "claim": "no",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 225,
+    "answer_type": "hallucinated_answer",
+    "claim": "King Charles is from West London, while Sparta is not from the same country.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 226,
+    "answer_type": "right_answer",
+    "claim": "Shailene Diann Woodley",
+    "verdict": "Supported"
+  },
+  {
+    "id": 226,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Fault in Our Stars actress was born in San Bernardino County.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 227,
+    "answer_type": "right_answer",
+    "claim": "Outfit",
+    "verdict": "Supported"
+  },
+  {
+    "id": 227,
+    "answer_type": "hallucinated_answer",
+    "claim": "Charles \"Chuckie\" Anthony Nicoletti and Salvatore \"Mooney Sam\" Giancana were part of a vigilante group.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 228,
+    "answer_type": "right_answer",
+    "claim": "choreographer",
+    "verdict": "Supported"
+  },
+  {
+    "id": 228,
+    "answer_type": "hallucinated_answer",
+    "claim": "Alex Joseph \"AJ\" Pritchard reached the semi-finals of \"Britain's Got Talent\" with his partner, a 1995 born dancer and a singer.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 229,
+    "answer_type": "right_answer",
+    "claim": "Calendula",
+    "verdict": "Supported"
+  },
+  {
+    "id": 229,
+    "answer_type": "hallucinated_answer",
+    "claim": "Purshia has more species.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 230,
+    "answer_type": "right_answer",
+    "claim": "United States",
+    "verdict": "Supported"
+  },
+  {
+    "id": 230,
+    "answer_type": "hallucinated_answer",
+    "claim": "Both have \"Wainscott\" in common.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 231,
+    "answer_type": "right_answer",
+    "claim": "primary mode of transportation for the Runaways.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 231,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Leapfrog is used by a super-villain team in Marvel Comics.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 232,
+    "answer_type": "right_answer",
+    "claim": "Tangier",
+    "verdict": "Supported"
+  },
+  {
+    "id": 232,
+    "answer_type": "hallucinated_answer",
+    "claim": "High Tider dialect is spoken in Tangier, Virginia.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 233,
+    "answer_type": "right_answer",
+    "claim": "Zeppelinfeld",
+    "verdict": "Supported"
+  },
+  {
+    "id": 233,
+    "answer_type": "hallucinated_answer",
+    "claim": "The final was played at a completely different stadium.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 234,
+    "answer_type": "right_answer",
+    "claim": "Andrés Gómez",
+    "verdict": "Supported"
+  },
+  {
+    "id": 234,
+    "answer_type": "hallucinated_answer",
+    "claim": "Mate Pavić started playing tennis first.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 235,
+    "answer_type": "right_answer",
+    "claim": "\"American Pie\"",
+    "verdict": "Supported"
+  },
+  {
+    "id": 235,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"American Pie,\" \"American Pie 2,\" \"American Wedding,\" \"American Reunion,\" and \"Alien Covenant\"",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 236,
+    "answer_type": "right_answer",
+    "claim": "The section around the crossing of the River Ribble",
+    "verdict": "Supported"
+  },
+  {
+    "id": 236,
+    "answer_type": "hallucinated_answer",
+    "claim": "The section around the crossing of the River Dee.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 237,
+    "answer_type": "right_answer",
+    "claim": "Daniele Massaro",
+    "verdict": "Supported"
+  },
+  {
+    "id": 237,
+    "answer_type": "hallucinated_answer",
+    "claim": "Daniele Massaro scored two goals.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 238,
+    "answer_type": "right_answer",
+    "claim": "The Venetian Macao",
+    "verdict": "Supported"
+  },
+  {
+    "id": 238,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Macao Vegas Casino is the largest casino in the world.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 239,
+    "answer_type": "right_answer",
+    "claim": "opera",
+    "verdict": "Supported"
+  },
+  {
+    "id": 239,
+    "answer_type": "hallucinated_answer",
+    "claim": "Helge Lindberg was inspired by George Frideric Handel, but their musical styles were completely different.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 240,
+    "answer_type": "right_answer",
+    "claim": "English",
+    "verdict": "Supported"
+  },
+  {
+    "id": 240,
+    "answer_type": "hallucinated_answer",
+    "claim": "Russ Abbot, an English, starred.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 241,
+    "answer_type": "right_answer",
+    "claim": "Salem, Missouri,",
+    "verdict": "Supported"
+  },
+  {
+    "id": 241,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Dillards were formed in Canada.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 242,
+    "answer_type": "right_answer",
+    "claim": "Ecuadorian",
+    "verdict": "Supported"
+  },
+  {
+    "id": 242,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 2010 FA Community Shield had a goal by the left winger who is of Mexican nationality.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 243,
+    "answer_type": "right_answer",
+    "claim": "Marc Cherry",
+    "verdict": "Supported"
+  },
+  {
+    "id": 243,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Now I Know, Don’t Be Scared\" is the 76th episode of the ABC television series, \"Desperate Housewives\", a Canadian television show created by Marc Cherry.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 244,
+    "answer_type": "right_answer",
+    "claim": "Ernst Julius Günther Röhm",
+    "verdict": "Supported"
+  },
+  {
+    "id": 244,
+    "answer_type": "hallucinated_answer",
+    "claim": "Colonel Pyat, an incarnation of the Eternal Champion, goes to Italy and Germany, where he becomes involved in Fascism and Naziism, including sexual encounters with Joseph Goebbels.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 245,
+    "answer_type": "right_answer",
+    "claim": "Slade",
+    "verdict": "Supported"
+  },
+  {
+    "id": 245,
+    "answer_type": "hallucinated_answer",
+    "claim": "Van Halen is responsible for bolstering Quiet Riot's hit \"Metal Health.\"",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 246,
+    "answer_type": "right_answer",
+    "claim": "Pavlos, Crown Prince of Greece",
+    "verdict": "Supported"
+  },
+  {
+    "id": 246,
+    "answer_type": "hallucinated_answer",
+    "claim": "Pavlos, Crown Prince of Greece was never crowned.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 247,
+    "answer_type": "right_answer",
+    "claim": "dairy products",
+    "verdict": "Supported"
+  },
+  {
+    "id": 247,
+    "answer_type": "hallucinated_answer",
+    "claim": "Kerrygold Irish Cream Liqueur is owned by a company that mainly sells agricultural products.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 248,
+    "answer_type": "right_answer",
+    "claim": "Leicester",
+    "verdict": "Supported"
+  },
+  {
+    "id": 248,
+    "answer_type": "hallucinated_answer",
+    "claim": "The last champion of the FFB Open was a Scottish professional snooker player.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 249,
+    "answer_type": "right_answer",
+    "claim": "Claire Skinner",
+    "verdict": "Supported"
+  },
+  {
+    "id": 249,
+    "answer_type": "hallucinated_answer",
+    "claim": "Emily Watson",
+    "verdict": "Contradicted"
+  },
+  {
+    "id": 250,
+    "answer_type": "right_answer",
+    "claim": "Suzy Bogguss",
+    "verdict": "Supported"
+  },
+  {
+    "id": 250,
+    "answer_type": "hallucinated_answer",
+    "claim": "Judy Collins and Moe Bandy recorded Someday Soon with Suzy Bogguss.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 251,
+    "answer_type": "right_answer",
+    "claim": "Yamoussoukro",
+    "verdict": "Supported"
+  },
+  {
+    "id": 251,
+    "answer_type": "hallucinated_answer",
+    "claim": "The political capital is Abidjan.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 252,
+    "answer_type": "right_answer",
+    "claim": "Fox Television Group",
+    "verdict": "Supported"
+  },
+  {
+    "id": 252,
+    "answer_type": "hallucinated_answer",
+    "claim": "Rupert Murdoch's 21st Century Fox.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 253,
+    "answer_type": "right_answer",
+    "claim": "John Lennon",
+    "verdict": "Supported"
+  },
+  {
+    "id": 253,
+    "answer_type": "hallucinated_answer",
+    "claim": "One artist who made those two studio albums is Paul McCartney.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 254,
+    "answer_type": "right_answer",
+    "claim": "2017",
+    "verdict": "Supported"
+  },
+  {
+    "id": 254,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Children Act was released in 2018.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 255,
+    "answer_type": "right_answer",
+    "claim": "Prince",
+    "verdict": "Supported"
+  },
+  {
+    "id": 255,
+    "answer_type": "hallucinated_answer",
+    "claim": "The song \"Partyman\" was written by Michael Jackson.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 256,
+    "answer_type": "right_answer",
+    "claim": "The Melvins",
+    "verdict": "Supported"
+  },
+  {
+    "id": 256,
+    "answer_type": "hallucinated_answer",
+    "claim": "Better Than Ezra formed in 1985.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 257,
+    "answer_type": "right_answer",
+    "claim": "Albany, New York",
+    "verdict": "Supported"
+  },
+  {
+    "id": 257,
+    "answer_type": "hallucinated_answer",
+    "claim": "Douglas M. North is the head of Academies.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 258,
+    "answer_type": "right_answer",
+    "claim": "South Korean",
+    "verdict": "Supported"
+  },
+  {
+    "id": 258,
+    "answer_type": "hallucinated_answer",
+    "claim": "The nationality of actors in that movie is from various countries.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 259,
+    "answer_type": "right_answer",
+    "claim": "The Saimaa Gesture",
+    "verdict": "Supported"
+  },
+  {
+    "id": 259,
+    "answer_type": "hallucinated_answer",
+    "claim": "Adam Clayton Powell is about civil rights leader.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 260,
+    "answer_type": "right_answer",
+    "claim": "1945",
+    "verdict": "Supported"
+  },
+  {
+    "id": 260,
+    "answer_type": "hallucinated_answer",
+    "claim": "The pioneers of managed care in the United States were established in 1950.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 261,
+    "answer_type": "right_answer",
+    "claim": "USS \"Maryland\"",
+    "verdict": "Supported"
+  },
+  {
+    "id": 261,
+    "answer_type": "hallucinated_answer",
+    "claim": "Eugene E. Lindsey served in USS \"Colorado\".",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 262,
+    "answer_type": "right_answer",
+    "claim": "Blackfield & Langley Football Club",
+    "verdict": "Supported"
+  },
+  {
+    "id": 262,
+    "answer_type": "hallucinated_answer",
+    "claim": "The football club you are asking about is the Blackfield Soccer Team.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 263,
+    "answer_type": "right_answer",
+    "claim": "mountain",
+    "verdict": "Supported"
+  },
+  {
+    "id": 263,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sherpi Kangri and Kangpenqing are related to the same landmass.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 264,
+    "answer_type": "right_answer",
+    "claim": "World War II",
+    "verdict": "Supported"
+  },
+  {
+    "id": 264,
+    "answer_type": "hallucinated_answer",
+    "claim": "Roy Nielsen and Max Manus both fought for peace.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 265,
+    "answer_type": "right_answer",
+    "claim": "Gianluca Vialli",
+    "verdict": "Supported"
+  },
+  {
+    "id": 265,
+    "answer_type": "hallucinated_answer",
+    "claim": "The 1990-91 U.C. Sampdoria season was the year of Paolo Maldini.",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 266,
+    "answer_type": "right_answer",
+    "claim": "Botswana",
+    "verdict": "Supported"
+  },
+  {
+    "id": 266,
+    "answer_type": "hallucinated_answer",
+    "claim": "Donald Molosi won an award for his performance as the first colonizer of Botswana in \"Blue, Black and White\".",
+    "verdict": "Supported"
+  },
+  {
+    "id": 267,
+    "answer_type": "right_answer",
+    "claim": "1989",
+    "verdict": "Supported"
+  },
+  {
+    "id": 267,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Now That's What I Call Music! 56\" features three songs from a 2014 studio album, including \"Bad Blood\" by Taylor Swift./n",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 268,
+    "answer_type": "right_answer",
+    "claim": "Peter Riegert",
+    "verdict": "Supported"
+  },
+  {
+    "id": 268,
+    "answer_type": "hallucinated_answer",
+    "claim": "The main actor in \"American Pastoral\" is Donald \"Boon\" Schoenstein from \"Animal House\".",
+    "verdict": "Supported"
+  },
+  {
+    "id": 269,
+    "answer_type": "right_answer",
+    "claim": "Warrior\" (2011), \"The Grey\" (2012), \"End of Watch\" (2012) and \"Zero Dark Thirty\" (2012)",
+    "verdict": "Supported"
+  },
+  {
+    "id": 269,
+    "answer_type": "hallucinated_answer",
+    "claim": "Frank Grillo portrayed Sergeant Leo Barnes in \"Captain America: The Winter Soldier\" (2014), \"Captain America: Civil War\" (2016), \"Avengers: Endgame\" (2019), and \"Spider-Man: Far From Home\" (2019).",
+    "verdict": "Unverifiable"
+  },
+  {
+    "id": 270,
+    "answer_type": "right_answer",
+    "claim": "The Monk",
+    "verdict": "Supported"
+  },
+  {
+    "id": 270,
+    "answer_type": "hallucinated_answer",
+    "claim": "The nickname of the leader of Christy Kinahan's rival gang is \"The Phantom.\"",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 271,
+    "answer_type": "right_answer",
+    "claim": "documentary",
+    "verdict": "Supported"
+  },
+  {
+    "id": 271,
+    "answer_type": "hallucinated_answer",
+    "claim": "\"Transparent\" and \"Werner Herzog Eats His Shoe\" are examples of unconventional documentaries.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 272,
+    "answer_type": "right_answer",
+    "claim": "1987",
+    "verdict": "Supported"
+  },
+  {
+    "id": 272,
+    "answer_type": "hallucinated_answer",
+    "claim": "Rebecca Sugar, who wrote \"Incendium,\" was born in 1982.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 273,
+    "answer_type": "right_answer",
+    "claim": "Demolition",
+    "verdict": "Supported"
+  },
+  {
+    "id": 273,
+    "answer_type": "hallucinated_answer",
+    "claim": "Deliverance Creek and The Open House.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 274,
+    "answer_type": "right_answer",
+    "claim": "Ovidius University",
+    "verdict": "Supported"
+  },
+  {
+    "id": 274,
+    "answer_type": "hallucinated_answer",
+    "claim": "Inna studied at Mangalia University.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 275,
+    "answer_type": "right_answer",
+    "claim": "Howard M. Mitchell",
+    "verdict": "Supported"
+  },
+  {
+    "id": 275,
+    "answer_type": "hallucinated_answer",
+    "claim": "Richard Boleslawski was a prolific director.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 276,
+    "answer_type": "right_answer",
+    "claim": "National Basketball Association (NBA)",
+    "verdict": "Supported"
+  },
+  {
+    "id": 276,
+    "answer_type": "hallucinated_answer",
+    "claim": "San Antonio Spurs.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 277,
+    "answer_type": "right_answer",
+    "claim": "Bosnia and Herzegovina",
+    "verdict": "Supported"
+  },
+  {
+    "id": 277,
+    "answer_type": "hallucinated_answer",
+    "claim": "Sarajevo, a beautiful European city.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 278,
+    "answer_type": "right_answer",
+    "claim": "Fritz the Cat",
+    "verdict": "Supported"
+  },
+  {
+    "id": 278,
+    "answer_type": "hallucinated_answer",
+    "claim": "Manuel \"Manny\" Perez worked on Robert Crumb's famous \"Maakies\" comic strip in his later career.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 279,
+    "answer_type": "right_answer",
+    "claim": "Michelle Pfeiffer",
+    "verdict": "Supported"
+  },
+  {
+    "id": 279,
+    "answer_type": "hallucinated_answer",
+    "claim": "The crime thriller was \"Lethal Weapon 2\".",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 280,
+    "answer_type": "right_answer",
+    "claim": "Mount Massive Asylum",
+    "verdict": "Supported"
+  },
+  {
+    "id": 280,
+    "answer_type": "hallucinated_answer",
+    "claim": "The game is focused on an isolated hospital.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 281,
+    "answer_type": "right_answer",
+    "claim": "Wynantskill",
+    "verdict": "Supported"
+  },
+  {
+    "id": 281,
+    "answer_type": "hallucinated_answer",
+    "claim": "The highway ends at North Greenbush.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 282,
+    "answer_type": "right_answer",
+    "claim": "midfielder",
+    "verdict": "Supported"
+  },
+  {
+    "id": 282,
+    "answer_type": "hallucinated_answer",
+    "claim": "Tobias Schweinsteiger's brother is part of the Chicago Fire, but not as a midfielder.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 283,
+    "answer_type": "right_answer",
+    "claim": "Corpse Bride",
+    "verdict": "Supported"
+  },
+  {
+    "id": 283,
+    "answer_type": "hallucinated_answer",
+    "claim": "Caroline Thompson based a film screenplay in a fictional Victorian era village for Edward Scissorhands.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 284,
+    "answer_type": "right_answer",
+    "claim": "Tim Burton",
+    "verdict": "Supported"
+  },
+  {
+    "id": 284,
+    "answer_type": "hallucinated_answer",
+    "claim": "The director of ''9'', Shane Acker, was inspired by the short film to create the feature-length movie.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 285,
+    "answer_type": "right_answer",
+    "claim": "1890",
+    "verdict": "Supported"
+  },
+  {
+    "id": 285,
+    "answer_type": "hallucinated_answer",
+    "claim": "Whitey Hilcher played for the Cincinnati Reds in the 1920s.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 286,
+    "answer_type": "right_answer",
+    "claim": "2006",
+    "verdict": "Supported"
+  },
+  {
+    "id": 286,
+    "answer_type": "hallucinated_answer",
+    "claim": "Gene Pitney died in 2005.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 287,
+    "answer_type": "right_answer",
+    "claim": "William \"Bill\" Murray",
+    "verdict": "Supported"
+  },
+  {
+    "id": 287,
+    "answer_type": "hallucinated_answer",
+    "claim": "The man who was also known as M. Bible had a half-brother named William \"Bill\" Murray.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 288,
+    "answer_type": "right_answer",
+    "claim": "Air Force, Incorporated",
+    "verdict": "Supported"
+  },
+  {
+    "id": 288,
+    "answer_type": "hallucinated_answer",
+    "claim": "Body of War came out first.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 289,
+    "answer_type": "right_answer",
+    "claim": "Southern Methodist University",
+    "verdict": "Supported"
+  },
+  {
+    "id": 289,
+    "answer_type": "hallucinated_answer",
+    "claim": "Stagger Lee was developed in collaboration with the school of arts at University of Texas.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 290,
+    "answer_type": "right_answer",
+    "claim": "Bauhinia",
+    "verdict": "Supported"
+  },
+  {
+    "id": 290,
+    "answer_type": "hallucinated_answer",
+    "claim": "Cestrum has more species than Bauhinia.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 291,
+    "answer_type": "right_answer",
+    "claim": "Medal of Honor",
+    "verdict": "Supported"
+  },
+  {
+    "id": 291,
+    "answer_type": "hallucinated_answer",
+    "claim": "Herman G. Tillman, Jr. was the wingman for the raid by the aviation pioneer who received the Distinguished Flying Cross for valor during a raid in 1942.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 292,
+    "answer_type": "right_answer",
+    "claim": "Greek extreme metal band",
+    "verdict": "Supported"
+  },
+  {
+    "id": 292,
+    "answer_type": "hallucinated_answer",
+    "claim": "Aealo and Rotting Christ both use traditional Greek musical instruments.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 293,
+    "answer_type": "right_answer",
+    "claim": "John Buccigross",
+    "verdict": "Supported"
+  },
+  {
+    "id": 293,
+    "answer_type": "hallucinated_answer",
+    "claim": "Dan Patrick replaced Robert Flores.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 294,
+    "answer_type": "right_answer",
+    "claim": "poet and composer",
+    "verdict": "Supported"
+  },
+  {
+    "id": 294,
+    "answer_type": "hallucinated_answer",
+    "claim": "Ivor Gurney and Robert Walser shared a passion for creating beautiful and inspiring works of art.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 295,
+    "answer_type": "right_answer",
+    "claim": "Jardine Matheson Holdings",
+    "verdict": "Supported"
+  },
+  {
+    "id": 295,
+    "answer_type": "hallucinated_answer",
+    "claim": "Market Place by Jasons is owned by Dairy Farm International Holdings.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 296,
+    "answer_type": "right_answer",
+    "claim": "Don Black",
+    "verdict": "Supported"
+  },
+  {
+    "id": 296,
+    "answer_type": "hallucinated_answer",
+    "claim": "Don Black is a lyrist.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 297,
+    "answer_type": "right_answer",
+    "claim": "England",
+    "verdict": "Supported"
+  },
+  {
+    "id": 297,
+    "answer_type": "hallucinated_answer",
+    "claim": "Charles Runnington was born in a city in southern England.",
+    "verdict": "Supported"
+  },
+  {
+    "id": 298,
+    "answer_type": "right_answer",
+    "claim": "Garry Marshall",
+    "verdict": "Supported"
+  },
+  {
+    "id": 298,
+    "answer_type": "hallucinated_answer",
+    "claim": "Rob Marshall.",
+    "verdict": "Partially Supported"
+  },
+  {
+    "id": 299,
+    "answer_type": "right_answer",
+    "claim": "Chenango Canal",
+    "verdict": "Supported"
+  },
+  {
+    "id": 299,
+    "answer_type": "hallucinated_answer",
+    "claim": "The Black River Canal was longer.",
+    "verdict": "Partially Supported"
+  }
+]

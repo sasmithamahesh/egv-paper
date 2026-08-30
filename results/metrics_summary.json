@@ -1,0 +1,13 @@
+{
+  "total_claims": 600,
+  "precision": 0.076,
+  "recall": 0.027,
+  "f1": 0.04,
+  "abstention_rate": 67.3,
+  "verdict_distribution": {
+    "Unverifiable": 404,
+    "Contradicted": 180,
+    "Supported": 14,
+    "Partially Supported": 2
+  }
+}
